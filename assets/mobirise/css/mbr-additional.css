@@ -411,3 +411,7 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-f .mbr-section-title,
+#header3-f .mbr-section-subtitle {
+  text-align: center;
+}
