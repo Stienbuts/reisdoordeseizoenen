@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 12,
+    "versionPublish": "4.2.2"
   },
   "pages": {
     "index.html": {
@@ -43,23 +43,23 @@
           "_name": "header1",
           "_anchor": "header1-0",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/scan-seizoenenboom-2000x1422.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "Reis door de vier seizoenen",
           "text": "Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!<br>",
@@ -72,26 +72,26 @@
           "_name": "features3",
           "_anchor": "features3-5",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -107,7 +107,7 @@
           },
           "title1": "Lente&nbsp;",
           "subtitle1": "",
-          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is zo groen en zo mooi,<br>ga naar buiten en hou op met dat geklooi.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
+          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
           "media2": {
             "image": {
@@ -189,25 +189,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-9",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -233,7 +233,124 @@
           },
           "title": "Seizoenenboom<div><br></div>",
           "text": "Dit werkje wordt best in de herfst, het begin van het schooljaar, gemaakt. Nadat de boom klaar is, gaan we het bos in en verzamelen we herfstige voorwerpen: kastanjes, afgevallen bladeren. We leggen ze in de hoek behorend tot dit seizoen. Deze 'verzameltocht' herhalen we elk seizoen. Aan het eind van het schooljaar hebben we een mooie seizoensverzameling! <br><br>Benodigdheden<br>- Het sjabloon in het midden van het magazine <br>- Scharen, wasco’s (pandakrijt) <br>- Optioneel: bruine verf, sterke lijm<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sjabloon</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sjabloon\" data-toolbar=\"-mbrBtnMove\">&nbsp;link naar het Sjabloon</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-b",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sjabloon1-600x423.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Stap 1",
+          "subtitle1": "",
+          "caption1": "Haal het sjabloon uit het magazine. Leg het voor je neer en maak je bank voor de rest vrij. ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20181114-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Stap 2",
+          "subtitle2": "",
+          "caption2": "Kleur de kruin van de boom met wasco. <br>Vergeet het grasperkje onderaan niet.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20181114-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Stap 3",
+          "subtitle3": "",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Kleur de stam. Dit kan met wasco of met verf</span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20181114-1-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Stap 4",
+          "subtitle4": "",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Knip de boom uit. Knip ook de gleuven bovenaan en onderaan.</span><br>Schuif de twee bomen in elkaar. <br>Blijft hij niet goed staan? Verstevig met lijm. <br>Klaar!<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -250,8 +367,11 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -282,10 +402,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider3-a",
           "articleLayout": false
