@@ -1315,7 +1315,7 @@
           },
           "title1": "Taal&nbsp;",
           "subtitle1": "Help, juf!&nbsp;",
-          "caption1": "Deze oefeningen zijn ideaal als huiswerk of contractwerkje, want ze zijn volledig zelfstandig uit te voeren. Dit - uiteraard- best in het winterseizoen!",
+          "caption1": "Deze oefeningen zijn ideaal als huiswerk of contractwerkje, want ze zijn volledig zelfstandig uit te voeren. Dit past uiteraard best in het winterseizoen!",
           "button1": "<a data-app-btn=\"true\" href=\"winter#msg-box8-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil oefenen!</a>",
           "media2": {
             "image": {
@@ -1388,6 +1388,9 @@
             },
             ".lead P": {
               "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1396,8 +1399,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-29",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/wintertak-2000x630.jpg",
@@ -1414,8 +1417,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Help, juf!&nbsp;",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Winterse oefeningen",
+          "text": "<ul><li></li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1442,7 +1445,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Leerplandoelen</b>:</p><p>TOtg1 Plezier beleven aan taal en het spelen met taal &nbsp; &nbsp;</p><p>TOtg4 Mondeling en schriftelijk willen en durven communiceren en het nut daarvan inzien</p><p>TOsn3 Een schriftelijke boodschap overbrengen</p><p>●\tVrij schrijven (over gevoelens, ervaringen, gedachten, verwachtingen)</p><p>●\tEen verslag schrijven (over gebeurtenissen, (voor)gelezen verhalen of .. &nbsp;&nbsp;</p><p>TOsn4 Bij het schrijven aandacht besteden aan zins- en tekststructuur, lay-out en beeldende elementen, leesbaarheid, spelling en interpunctie</p><p>●\t6 - 9 Aandacht besteden aan spelling en interpunctie:ontdekken dat correcte …</p><p>●\t9 - 12 Aandacht besteden aan spelling en interpunctie:toepassen van inzichten…</p><p><br></p><p><br></p>",
+          "text1": "<p><b>Leerplandoelen</b>:</p><p>TOtg1 Plezier beleven aan taal en het spelen met taal &nbsp; &nbsp;</p><p>TOtg4 Mondeling en schriftelijk willen en durven communiceren en het nut daarvan inzien</p><p>TOsn3 Een schriftelijke boodschap overbrengen</p><p>●\tVrij schrijven (over gevoelens, ervaringen, gedachten, verwachtingen)</p><p>●\tEen verslag schrijven (over gebeurtenissen, (voor)gelezen verhalen</p><p>TOsn4 Bij het schrijven aandacht besteden aan zins- en tekststructuur, lay-out en beeldende elementen, leesbaarheid, spelling en interpunctie</p><p>●\t6 - 9 Aandacht besteden aan spelling en interpunctie:ontdekken dat correcte …</p><p>●\t9 - 12 Aandacht besteden aan spelling en interpunctie:toepassen van inzichten…</p><p><br></p><p><br></p>",
           "text2": "<p><b>Eindtermen:</b></p><p>4.3  Een brief schrijven aan een bekende om een persoonlijke boodschap of belevenis over te brengen.</p><p>4.7  De leerlingen kunnen voor het realiseren van bovenstaande eindtermen bovendien:</p><p>woorden met veranderlijk woordbeeld (regelwoorden) spellingsafspraken en -regels toepassen in verband met het schrijven van: &nbsp;&nbsp;</p><p>●\twerkwoorden</p><p>●\tklinker in open/gesloten lettergreep</p><p>●\tverdubbeling medeklinker</p><p>●\tniet-klankzuivere eindletter</p><p><br></p>"
         },
         {
@@ -1509,7 +1512,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Wat is jouw leukste herinnering aan de kerstvakantie? Schrijf hier een tekstje over van 8-10 zinnetjes. (2e graad)</b></p><p>_________________________________________________________________________<span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_______________________________________________________________________________________________________________________</span></p><p><br></p><p><br></p>"
+          "text": "<p><b>Wat is jouw leukste herinnering aan de kerstvakantie? Schrijf hier een tekstje over van 8-10 zinnetjes. (2e graad)</b></p><p>_________________________________________________________________________<span style=\"font-size: 1.07rem; line-height: 1.5;\">_____________________________________________________</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">____________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_____________</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">____________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">__________________________________________________________________</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">_______</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_______________________________________________________________________________________________________________________</span></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -1615,8 +1618,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><i>Ho ho ho! Het is weer bijna zover, Kerstmis komt eraan! Dit is dan ook meteen mijn favoriete feestdag. Wat ik zo tof vind aan Kerstmis? Het gezellig samenzijn met de familie, het lekkere eten, de gezellige kerstboom en natuurlijk ook de cadeautjes! Maar, vraag jij je soms ook niet af waarom we een versierde boom in huis zetten? Wel, dat en nog wat andere leuke weetjes, kan je hieronder lezen!</i></p><p><br></p><p>Het begon bij de Germanen</p><p>Met Kerstmis zetten we met z’n allen een kerstboom in huis en versieren we deze met lichtjes, kerstballen, slingers en misschien nog wel meer! Maar waarom zetten we juist een spar in huis? Wel, hiervoor moeten we heel ver terug in de tijd gaan, namelijk naar de Germanen. Deze stam leefde zo’n 2000 jaar geleden in West- en Noord-Europa. Het waren onze voorouders zeg maar. Zij versierden vroeger hun huizen al met groene takken. Het viel hen op dat midden in de winter, wanneer alle bomen hun blaadjes al waren verloren, de sparren mooi groen bleven. Ze geloofden dan ook dat deze bomen eeuwig bleven leven en magische krachten hadden!</p><p>De Germanen vierden op 21 december het midwinterfeest. Op deze dag was het feest, omdat de dagen terug langer werden. Het was dus eigenlijk een ‘het wordt opnieuw licht feest’. Daarom stond de spar bij hen symbool voor een nieuw begin.</p><p>Nu wil het toeval dat de Christenen rond deze periode ook een feest hadden, namelijk Kerstmis! Op deze dag werd Jezus geboren en een geboorte, dat staat ook voor een nieuw begin! Rond de 16e eeuw werden de Germaanse en de Christelijke feesten samengevoegd en zo ontstond de kerstboom!</p><p><br></p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het begin van de traditie zetten enkel de rijke mensen een kerstboom in huis. Dit veranderde na Wereldoorlog 2, toen plotseling iedereen deze mooi versierde boom in huis begon te zetten!</span><br></p><p><br></p><p>Kaarsen in de boom</p><p>Een Duitser was één van de eerste die eersten die een verlichte spar in huis zette. In deze vroege tijden bestonden lichtjes, die wij nu in onze boom hangen, nog niet. In plaats daarvan gebruikten ze kaarsen. Veilig was dit wel niet, de takken van de spar konden in brand schieten als je even niet oplette. Vandaar dat we tegenwoordig lichtjes hangen in plaats van kaarsen.</p><p>Maar hoe is deze traditie van Duistland naar onze landen gekomen? Wel, vele leden van het Nederlandse koningshuis trouwden met Duitse prinsessen. De Duitse dames wilden hun prachtig verlichte kerstboom natuurlijk niet opgeven en zo werd ook bij ons de traditie van lichtjes in de kerstboom geboren!</p><p><br></p><p>Oh dennenboom of oh sparrenboom?</p><p>Nu rest er natuurlijk nog één vraag, waarom gaan kerstliedjes steeds over dennenbomen en niet over sparren, de boom die we als kerstboom gebruiken? Net zoals bij de verlichte kerstboom, is het lied ‘Oh dennenboom’ afkomstig uit Duitsland. In het Duits is de titel van het liedje ‘O tannanbaum’. Tanne betekent in het Duits spar, maar omdat ze vonden dat dennenboom beter klonk dan spar in het liedje, hebben ze dit zo aangepast. Want zeg nu eerlijk, oh dennenboom klinkt echt wel beter dan oh sparrenboom</p>"
+          "text1": "<p><i>Ho ho ho! Het is weer bijna zover, Kerstmis komt eraan! Dit is dan ook meteen mijn favoriete feestdag. Wat ik zo tof vind aan Kerstmis? Het gezellig samenzijn met de familie, het lekkere eten, de gezellige kerstboom en natuurlijk ook de cadeautjes! Maar, vraag jij je soms ook niet af waarom we een versierde boom in huis zetten? Wel, dat en nog wat andere leuke weetjes, kan je hieronder lezen!</i></p><p><br></p><p><b>Het begon bij de Germanen</b></p><p>Met Kerstmis zetten we met z’n allen een kerstboom in huis en versieren we deze met lichtjes, kerstballen, slingers en misschien nog wel meer! Maar waarom zetten we juist een spar in huis? Wel, hiervoor moeten we heel ver terug in de tijd gaan, namelijk naar de Germanen. Deze stam leefde zo’n 2000 jaar geleden in West- en Noord-Europa. Het waren onze voorouders zeg maar. Zij versierden vroeger hun huizen al met groene takken. Het viel hen op dat midden in de winter, wanneer alle bomen hun blaadjes al waren verloren, de sparren mooi groen bleven. Ze geloofden dan ook dat deze bomen eeuwig bleven leven en magische krachten hadden!</p><p>De Germanen vierden op 21 december het midwinterfeest. Op deze dag was het feest, omdat de dagen terug langer werden. Het was dus eigenlijk een ‘het wordt opnieuw licht feest’. Daarom stond de spar bij hen symbool voor een nieuw begin.</p><p>Nu wil het toeval dat de Christenen rond deze periode ook een feest hadden, namelijk Kerstmis! Op deze dag werd Jezus geboren en een geboorte, dat staat ook voor een nieuw begin! Rond de 16e eeuw werden de Germaanse en de Christelijke feesten samengevoegd en zo ontstond de kerstboom!</p><p><br></p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het begin van de traditie zetten enkel de rijke mensen een kerstboom in huis. Dit veranderde na Wereldoorlog 2, toen plotseling iedereen deze mooi versierde boom in huis begon te zetten!</span><br></p><p><br></p><p><b>Kaarsen in de boom</b></p><p>Een Duitser was één van de eerste die eersten die een verlichte spar in huis zette. In deze vroege tijden bestonden lichtjes, die wij nu in onze boom hangen, nog niet. In plaats daarvan gebruikten ze kaarsen. Veilig was dit wel niet, de takken van de spar konden in brand schieten als je even niet oplette. Vandaar dat we tegenwoordig lichtjes hangen in plaats van kaarsen.</p><p>Maar hoe is deze traditie van Duistland naar onze landen gekomen? Wel, vele leden van het Nederlandse koningshuis trouwden met Duitse prinsessen. De Duitse dames wilden hun prachtig verlichte kerstboom natuurlijk niet opgeven en zo werd ook bij ons de traditie van lichtjes in de kerstboom geboren!</p><p><br></p><p><b>Oh dennenboom of oh sparrenboom?</b></p><p>Nu rest er natuurlijk nog één vraag, waarom gaan kerstliedjes steeds over dennenbomen en niet over sparren, de boom die we als kerstboom gebruiken? Net zoals bij de verlichte kerstboom, is het lied ‘Oh dennenboom’ afkomstig uit Duitsland. In het Duits is de titel van het liedje ‘O tannanbaum’. Tanne betekent in het Duits spar, maar omdat ze vonden dat dennenboom beter klonk dan spar in het liedje, hebben ze dit zo aangepast. Want zeg nu eerlijk, oh dennenboom klinkt echt wel beter dan oh sparrenboom</p>"
         },
         {
           "_tags": [
