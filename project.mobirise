@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "Lente",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -806,7 +806,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -821,8 +821,8 @@
               "active": true
             }
           },
-          "title1": "Wiskunde",
-          "subtitle1": "bla bla",
+          "title1": "Rekenen",
+          "subtitle1": "Met juf Vicky",
           "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)",
           "button1": "<a data-app-btn=\"true\" href=\"page2.html#msg-box8-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik zien!</a>",
           "media2": {
@@ -833,10 +833,10 @@
               "active": true
             }
           },
-          "title2": "Taal",
-          "subtitle2": "Help, juf!",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik zien!&nbsp;</a>",
+          "title2": "Lentekriebels",
+          "subtitle2": "Ine Haepers",
+          "caption2": "Een verhaal over prille liefde en sterke gevoelens. <br>Een sprookje op de schoolbanken.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Lente#msg-box8-14\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik lezen!</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -845,9 +845,9 @@
               "active": true
             }
           },
-          "title3": "\"Er was eens...\"",
-          "subtitle3": "schoolgevoelens",
-          "caption3": "Ine's artikel",
+          "title3": "Lentekriebels",
+          "subtitle3": "Ine Haepers",
+          "caption3": "Een verhaal over prille liefde. <br>Verovert Laureen Wouters hart?&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"page2.html#header3-11\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik lezen!&nbsp;</a>",
           "media4": {
             "image": {
@@ -922,7 +922,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Wiskunde: Help, juf!",
+          "title": "Rekenen met Juf Vicky",
           "text": "<p>Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -1071,8 +1071,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "“Er was eens…”",
-          "text": "<p>schoolgevoelens</p>",
+          "title": "Lentekriebels",
+          "text": "Ine Haepers",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1472,23 +1472,37 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-f",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1m",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b8fd73",
-            "showMeta": true
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-home-2000x746.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Klavier op school",
-          "meta": "Een pleidooi voor meer typeles op de lagere school"
+          "text": "<p>Een pleidooi voor meer typeles op de lagere school</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -1505,17 +1519,54 @@
           "text2": "<p><b><span style=\"font-size: 1.07rem;\">De leerplannen en eindtermen</span><br></b></p><p>In de eindtermen vind je niets concreets terug in verband met klaviervaardigheden. De onderwijsdoelen in verband met ICT zijn zeer abstract. ICT wordt gezien als leergebiedoverschrijdend: het dient geïmplementeerd te worden in andere vakken. Het gebruik van ICT in andere leergebieden kan ik alleen maar toejuichen. Ik ben er echter van overtuigd dat bepaalde elementen uit ICT, onder andere klaviervaardigheden, als autonome leerstofonderdelen behandeld dienen te worden. In de leerplannen van het ZILL van het Katholiek Onderwijs Vlaanderen vinden we de ontwikkeling van technische en instrumentele computervaardigheden wel terug. Ze vallen onder mediakundige ontwikkeling: vanaf zes jaar exploreren kinderen het toetsenbord. Vanaf acht jaar ontwikkelen ze klaviervaardigheden, waaronder het toetsenbord hanteren. Leerlingen van het Katholiek Onderwijs zullen in de toekomst dus zeker typelessen aangeboden krijgen op school. De criteria blijven echter vaag. Er bestaat geen maatstaf om aan te geven in hoeverre men het klavier beheerst.</p><p><br></p><p>\n</p><p><b>Nood aan normering\n</b></p><p>Een oplossing is om niveaus vast te leggen waaraan leerlingen getoetst kunnen worden. Dit kan vastgelegd worden op basis van minimumsnelheid (aantal slagen per minuut) en accuratesse (in percentage). Ik denk hierbij aan een systeem gelijkend aan de AVI-niveaus bij het lezen. Deze niveaus kunnen vervolgens geïmplementeerd worden in de eindtermen en leerplandoelen.\n</p><p><br></p><p>Meer typelessen en een duidelijke maatstaf hieromtrent is wat tekortschiet in onze eindtermen. Als alle scholen dit zouden toepassen, bewapenen we de generatie van de toekomst met de juiste vaardigheden om zelfstandig de digitale wereld te veroveren.\n</p><p><br></p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-i",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-home-2000x746.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Wij vieren feest!&nbsp;",
+          "text": "<b>Hoe staat het met de algemene kennis over de feestdagen van uw leerlingen?&nbsp;<br>Overloop verschillende feestdagen met de quizkaartjes op het bord. Je kan het ook proberen in kleine groepjes in de klas.&nbsp;</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1l",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">naar boven<br></a> "
+          "text": "<p>lesdoelen:</p><p>De leerlingen begrijpen de achterliggende reden van de feestdagen.</p><p>De leerlingen zien in dat sommige feestdagen verschillen van datum door bijkomende uitleg van hun leerkracht.</p><p><br></p><p><br></p><p>leerplandoelen:</p><p>RKgs3 \tOpenkomen voor de symboliek, geloofstaal, rituelen en vieringen in het van mensen op het ritme van het liturgisch jaar deze mee beleven.</p><p>OWti7 7 - 12 \tDe geschiedenis van veel voorkomende culturele, katholiek en andere religieuze en historische feesten en gebeurtenissen achterhalen.</p><p><br></p><p>eindtermen:</p><p>De leerlingen…</p><p>3.8 kunnen aan de hand van een voorbeeld illustreren dat een actuele toestand, die voor kinderen herkenbaar is, en die door de geschiedenis beïnvloed werd, vroeger anders was en in de loop der tijden evolueert.</p>"
         },
         {
           "_tags": [
@@ -1524,7 +1575,7 @@
           "_name": "video1",
           "_anchor": "video1-1j",
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -1541,6 +1592,19 @@
             }
           },
           "text": "<p><a href=\"https://flipquiz.com/review/39552 \">Link naar de flipquiz</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">naar boven<br></a> "
         }
       ]
     }
