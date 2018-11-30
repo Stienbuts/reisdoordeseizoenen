@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "herfst",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -615,6 +615,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-1w",
           "_params": {
             "imageSize": "35",
@@ -661,15 +669,7 @@
           },
           "title": "Zelf een robothand maken",
           "text": "Benodigdheden:<br>-\tEen stuk karton dat groter is dan je<br>            hand<br>-\tEen potlood<br>-\tEen schaar<br>-\t5 rietjes<br>-\tLijm<br>-\t5 touwtjes<br>-\tEventueel een perforator<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
