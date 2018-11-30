@@ -428,12 +428,19 @@ h6,
 #msg-box8-1d .mbr-section-title {
   color: #000000;
 }
+#msg-box8-1d .lead P {
+  color: #000000;
+}
 #msg-box8-1e .mbr-section-title,
 #msg-box8-1e p {
   color: #fff;
 }
 #msg-box8-1e .mbr-section-title {
   color: #000000;
+}
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n p {
+  color: #fff;
 }
 #msg-box8-16 .mbr-section-title,
 #msg-box8-16 p {
