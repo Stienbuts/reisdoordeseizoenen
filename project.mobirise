@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "winter",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,7 @@
       "settings": {
         "title": "sjabloon",
         "meta_descr": "Site Maker Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -789,7 +789,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Zomer\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
         }
       ]
     },
@@ -797,7 +797,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Herfst",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1039,7 +1039,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
         }
       ]
     },
@@ -1047,7 +1047,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Winter",
-        "order": 1
+        "order": 5
       },
       "components": [
         {
@@ -1202,7 +1202,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
         }
       ]
     },
@@ -1210,7 +1210,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Lente",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
@@ -1568,7 +1568,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
         }
       ]
     },
@@ -1579,7 +1579,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -2072,7 +2073,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">naar boven<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">naar boven<br></a> "
         }
       ]
     }
