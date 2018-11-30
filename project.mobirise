@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 90,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -132,7 +132,7 @@
             "showButton": false
           },
           "title": "Zomer",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -173,7 +173,7 @@
           },
           "title1": "Beweging",
           "subtitle1": "Jolige Yoga",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Het ideale ontpanningstussendoortje wanneer de leerstof even de oren uit komt",
           "button1": "<a data-app-btn=\"true\" href=\"Zomer#msg-box8-1d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil bewegen!&nbsp;</a>",
           "media2": {
             "image": {
@@ -185,7 +185,7 @@
           },
           "title2": "Techniek",
           "subtitle2": "Het robot wonder",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Lees het aangrijpende verhaal over Gert-Jan.<br>Ga daarna zelf aan de slag!",
           "button2": "<a data-app-btn=\"true\" href=\"Zomer#msg-box8-1e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil een robothand maken!&nbsp;</a>",
           "media3": {
             "image": {
@@ -195,9 +195,9 @@
               "active": true
             }
           },
-          "title3": "Gezonde voeding",
+          "title3": "Gezonde vieruurtjes",
           "subtitle3": "Bo Vansant",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Wat nemen uw leerlingen mee naar school als tussendoortje? Doet uw school mee aan woensdag fruitdag?<br>In dit artikel lees je alles over gezonde vieruurtjes",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!</a>",
           "media4": {
             "image": {
@@ -608,7 +608,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p>Een vrachtwagen raakt in een harde klap een man. Mensen stappen uit hun auto’s om te kijken wat er gebeurd is en de vrachtwagenchauffeur belt in paniek de hulpdiensten. Zij komen zo snel ze kunnen, terwijl de man bewusteloos op de grond ligt. De verplegers van de ambulance luisteren of hij nog ademt en zoeken snel naar zijn portefeuille om te kijken of ze zijn identiteitskaart vinden zodat ze kunnen zien wie de man is. Even later zijn ze er achter gekomen dat de man Gert-Jan heet en hij 28 jaar oud is. Zo snel ze kunnen rijden ze naar het ziekenhuis.</p><p>Wanneer Gert-Jan enkele uren later wakker wordt in een ziekenhuisbed, schrikt hij heel erg. Hij kan zijn benen niet meer bewegen! Hij is bijna volledig verlamd en kan niet meer wandelen. Hij is heel erg geschrokken en geeft de moed bijna op, maar de dokters beloven hem dat ze hun uiterste best zullen doen om hem te helpen.</p><p><br></p><p>7 jaar lang leefde Gert-Jan in een rolstoel. Hij probeerde heel vaak te wandelen, maar het lukte nooit. Hij kon niet meer rechtstaan op zijn benen zonder dat hij zich aan iets moest vasthouden… maar vandaag zal daar verandering in komen! De dokters komen hem goed nieuws brengen. “Dag Gert-Jan, we hebben geweldig nieuws voor jou! We hebben robotbenen voor jou ontworpen waarmee je terug zal kunnen wandelen!”, vertellen ze. Hij krijgt tranen in zijn ogen en kan het niet geloven. Zo snel hij kan probeert hij samen met de dokters de benen aan te doen en recht te komen uit zijn rolstoel. Het lukt hem en stap voor stap komt hij vooruit. Het is heel vermoeiend, maar hij genoot er zo van! Wanneer hij terug in zijn rolstoel zit om even uit te rusten, neemt hij zo snel hij kan zijn gsm en begint al zijn vrienden en familie op te bellen om hen het wonderbaarlijke nieuws te vertellen. Iedereen is super enthousiast. Dit moet gevierd worden!</p><p><br></p><p>Een paar weken later, op een prachtige zomerdag, is het zover. Gert-Jans feest is eindelijk daar. Hij staat in het middelpunt van de belangstelling, wordt echt in de bloemetjes gezet en loopt een stukje terwijl iedereen er rond staat en voor hem applaudisseert. Na de 7 jaren van revalidatie van zijn ongeluk, is hij eindelijk terug echt gelukkig!</p><p><br></p><p>Doordat we technologie hebben kunnen we heel veel, zoals mensen opnieuw laten lopen, maar ook communiceren van op een afstand en zoveel andere dingen. Knap he? Denk eens na hoeveel technologische dingen jij thuis hebt. Sta erbij stil hoe een grote invloed technologie heeft op ons leven. Bedenk een manier waarop we de technologie die ons leven veel gemakkelijker maakt, kunnen vieren!</p><p><br></p>"
+          "text": "<p><b>Het verhaal van Gert-Jan</b></p><p><br></p><p>Een vrachtwagen raakt in een harde klap een man. Mensen stappen uit hun auto’s om te kijken wat er gebeurd is en de vrachtwagenchauffeur belt in paniek de hulpdiensten. Zij komen zo snel ze kunnen, terwijl de man bewusteloos op de grond ligt. De verplegers van de ambulance luisteren of hij nog ademt en zoeken snel naar zijn portefeuille om te kijken of ze zijn identiteitskaart vinden zodat ze kunnen zien wie de man is. Even later zijn ze er achter gekomen dat de man Gert-Jan heet en hij 28 jaar oud is. Zo snel ze kunnen rijden ze naar het ziekenhuis.</p><p>Wanneer Gert-Jan enkele uren later wakker wordt in een ziekenhuisbed, schrikt hij heel erg. Hij kan zijn benen niet meer bewegen! Hij is bijna volledig verlamd en kan niet meer wandelen. Hij is heel erg geschrokken en geeft de moed bijna op, maar de dokters beloven hem dat ze hun uiterste best zullen doen om hem te helpen.</p><p><br></p><p>7 jaar lang leefde Gert-Jan in een rolstoel. Hij probeerde heel vaak te wandelen, maar het lukte nooit. Hij kon niet meer rechtstaan op zijn benen zonder dat hij zich aan iets moest vasthouden… maar vandaag zal daar verandering in komen! De dokters komen hem goed nieuws brengen. “Dag Gert-Jan, we hebben geweldig nieuws voor jou! We hebben robotbenen voor jou ontworpen waarmee je terug zal kunnen wandelen!”, vertellen ze. Hij krijgt tranen in zijn ogen en kan het niet geloven. Zo snel hij kan probeert hij samen met de dokters de benen aan te doen en recht te komen uit zijn rolstoel. Het lukt hem en stap voor stap komt hij vooruit. Het is heel vermoeiend, maar hij genoot er zo van! Wanneer hij terug in zijn rolstoel zit om even uit te rusten, neemt hij zo snel hij kan zijn gsm en begint al zijn vrienden en familie op te bellen om hen het wonderbaarlijke nieuws te vertellen. Iedereen is super enthousiast. Dit moet gevierd worden!</p><p><br></p><p>Een paar weken later, op een prachtige zomerdag, is het zover. Gert-Jans feest is eindelijk daar. Hij staat in het middelpunt van de belangstelling, wordt echt in de bloemetjes gezet en loopt een stukje terwijl iedereen er rond staat en voor hem applaudisseert. Na de 7 jaren van revalidatie van zijn ongeluk, is hij eindelijk terug echt gelukkig!</p><p><br></p><p>Doordat we technologie hebben kunnen we heel veel, zoals mensen opnieuw laten lopen, maar ook communiceren van op een afstand en zoveel andere dingen. Knap he? Denk eens na hoeveel technologische dingen jij thuis hebt. Sta erbij stil hoe een grote invloed technologie heeft op ons leven. Bedenk een manier waarop we de technologie die ons leven veel gemakkelijker maakt, kunnen vieren!</p><p><br></p>"
         },
         {
           "_tags": [
@@ -844,7 +844,7 @@
           "_name": "features3",
           "_anchor": "features3-17",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -873,10 +873,10 @@
               "active": true
             }
           },
-          "title1": "Allerheiligen",
-          "subtitle1": "Levensbeschouwing",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "Wereld",
+          "subtitle1": "Learning app over Wereldoorlog 1",
+          "caption1": "Deze learning app is een goede, speelse verwerkingsopdracht na een les over Wereldoorlog 1.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik doen!&nbsp;</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -885,10 +885,10 @@
               "active": true
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title2": "Godsdienst",
+          "subtitle2": "Joris, de Heilige die de draak versloeg",
+          "caption2": "Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Interessant!</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -898,7 +898,7 @@
             }
           },
           "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Pam Appelman",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -945,16 +945,19 @@
             },
             ".mbr-section-title": {
               "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-18",
+          "_anchor": "msg-box8-19",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/herfsttak-771x244.jpg",
@@ -971,8 +974,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Allerheiligen",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Wereldoorlog 1",
+          "text": "<b>Een verwerkingsopdracht over allerlei feiten over de Groote Oorlog</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -980,13 +983,80 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-15",
+          "_anchor": "content1-1y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Verhaal Allerheiligen\n</p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.\n</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wou van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet mogen we niet zeuren.\n</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen. Want de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak, om hem het slechte nieuws te vertellen.\n</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. ‘’ WHRAAA!’’ ‘ Hier hebben we onze koning’ en de draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. ‘’ Waar heb ik jullie bezoek aan te danken?’’ Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei: ‘ de schapen zijn op.’ ‘ dan zal ik meneer de raadsman moeten opeten,’ zei de draak. De raadsman keek bang de koning aan. ‘ Grapje,’ zei de draak. ‘ Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.’’\n</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. ‘ ik kan u van alles geven meneer de draak. ‘ ‘ Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?’ ‘’ Nee, koninkje.. een lekker vrouwtje.’’ ‘’ Anders zwaait er wat!’’\n</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. En dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. ‘Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.’ De koning en zijn volk vonden het allemaal vreselijk. ‘ Stop!’ klonk het uit de verte. ‘ Lieve papa, je bent mij nog vergeten. ’zei de dochter van de koning. De koning was geschrokken maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.\n</p><p>&nbsp;\n</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de  draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: ‘ degene die de draak kan verslaan mag trouwen met de prinses.’ Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: ‘’ Majesteit, ik kan de draak verslaan.’’ zei Joris. De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans. ‘’\n</p><p>Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. ‘’ Wat kom jij doen?’’, vroeg de draak. ‘Ik ben Joris, de heerser van water en vuur.’ ‘’HAHAHA’’, antwoordde de draak. ‘’ Goed geprobeerd.’’ ‘ ik heb net de hele oceaan in brand gezet’, zei Joris. ‘’ HAHAHA, dat kan echt niet’’, zei de draak. ‘ Jawel, kijk maar eens goed.’, zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.\n</p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak:  ‘ beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.’\n</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel u dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.\n</p><p><br></p>"
+          "text": "<p><b>Lesdoelen: </b></p><p>De leerlingen hebben inzicht in de materialen die met de oorlog zijn gebruikt.</p><p>De leerlingen linken de feestdagen met momenten van de oorlog door ze bij elkaar te hangen.</p><p>De leerlingen begrijpen de begrippen die met de oorlog te maken heeft.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>leerplandoelen:</b></p><p>2.5 - 4   Begrijpen dat 'gisteren' voorbij is en dat 'morgen' nog moet komen</p><p>4 - 7  \tErvaren en vaststellen hoe bepaalde activiteiten verbonden zijn met specifieke dagen</p><p><br></p>",
+          "text2": "<p><b>eindtermen</b>:</p><p>De leerlingen…&nbsp;</p><p>3.9* tonen belangstellingen voor het verleden, heden en de toekomst, hier en elders</p><p>3.10* beseffen dat er een onderscheid is tussen een mening over een historisch feit en het feit zelf</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-21",
+          "_params": {
+            "imageSize": "42",
+            "paddingTop": 0,
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/qr-wereldoorlog-1400x1414.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Te scannen QR-code",
+          "text": "Wanneer u op deze link klikt of de QR-code hiernaast even scant, zal u terechtkomen op de site van learningapps. De learningapp die klaarstaat gaat over de eerste wereldoorlog. De kinderen zullen hierin meer te weten komen over wie er tegen ons land vocht, wat ze hiervoor gebruikten en nog enkele andere begrippen die sindsdien gebruikt worden.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://learningapps.org/5923441 \" data-toolbar=\"-mbrBtnMove\">Naar de learning app</a>"
         },
         {
           "_styles": {
@@ -1004,10 +1074,10 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-19",
+          "_anchor": "msg-box8-18",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/herfsttak-771x244.jpg",
@@ -1024,9 +1094,126 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Joris, de Heilige die de draak versloeg",
+          "text": "<p><b>Het ver haal over Joris en de draak, en de link naar Allerheiligen en Allerzielen</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Lesdoelen</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- De leerlingen luisteren aandachtig naar het verhaal van Joris en de Draak.</span></p><p>-\tDe leerlingen verwerken de tekst aan de hand van bijkomende aanvulvragen.</p><p>-\tDe leerlingen leren hun gevoelens uiten in verband met verliezen van familieleden.</p><p>-\tDe leerlingen begrijpen het verschil tussen Allerheiligen en Allerzielen.</p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leerplandoelen</b></p><p><br></p><p>RKlg2: Komen tot communicatie op levensbeschouwelijk, religieus en/of godsdienstig vlak, verbaal of niet-verbaal.</p><p>●\tVerkennen en aanknopingspunten zoeken in de eigen leef- en belevingswereld: contact maken met, stilstaan bij, voelen, ruiken, horen, aanvoelen, meevoelen, zien, luisteren, lezenn in zich opnemen, herkennen, bewust worden, bespreken met elkaar</p><p>RKvm2: Erop vertrouwen dat er over schijnbaar dode punten heen nieuwe kansen liggen en een nieuw begin maken. Ontdekken wat ‘verrijzenis’ kan betekenen in het leven van mensen en mogelijk in het eigen leven.</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; verdriet als een deel van het (en hun) leven ervaren &gt; ontdekken dat er verdriet is wanneer zij afscheid moeten nemen (soms ook een kort afscheid) van mensen met wie ze erg verbonden zijn, of wanneer zij iemand of iets verliezen (een mens, speelgoed, een huisdier).</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; ontdekken hoe verbondenheid, nabijheid en luisterbereidheid helpen bij verdriet</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; situaties verkennen waarin christenen door handelingen, woorden, symbolen en rituelen hun geloof in Gods nabijheid uitdrukken: uitvaart, ziekenzalving, Allerheiligen, Goede Vrijdag en Pasen, bedevaarten …</p><p>RKgs3: Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het leven van mensen op het ritme van het liturgisch jaar en deze mee beleven</p><p>●\tAllerheiligen en Allerzielen &gt; eerste cyclus: de betekenis van enkele religieuze feesten ontdekken</p><p>●\tAllerheiligen en Allerzielen &gt; tweede cyclus: Allerheiligen en Allerzielen kennen als dagen van verbondenheid met heiligen en met mensen die gestorven zijn</p><p>●\tAllerheiligen en Allerzielen &gt; het onderscheid tussen Allerheiligen en Allerzielen maken</p><p><br></p><p><br></p>",
+          "text2": "<p><b>Eindtermen</b>: TO DO</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Joris en de draak</b></p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wou van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet mogen we niet zeuren.</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen. Want de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak, om hem het slechte nieuws te vertellen.</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. ‘’ WHRAAA!’’ ‘ Hier hebben we onze koning’ en de draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. ‘’ Waar heb ik jullie bezoek aan te danken?’’ Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei: ‘ de schapen zijn op.’ ‘ dan zal ik meneer de raadsman moeten opeten,’ zei de draak. De raadsman keek bang de koning aan. ‘ Grapje,’ zei de draak. ‘ Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.’’</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. ‘ ik kan u van alles geven meneer de draak. ‘ ‘ Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?’ ‘’ Nee, koninkje.. een lekker vrouwtje.’’ ‘’ Anders zwaait er wat!’’</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. En dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. ‘Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.’ De koning en zijn volk vonden het allemaal vreselijk. ‘ Stop!’ klonk het uit de verte. ‘ Lieve papa, je bent mij nog vergeten. ’zei de dochter van de koning. De koning was geschrokken maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.</p><p>&nbsp;</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: ‘ degene die de draak kan verslaan mag trouwen met de prinses.’ Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: ‘’ Majesteit, ik kan de draak verslaan.’’ zei Joris. De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans. ‘’</p><p>Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. ‘’ Wat kom jij doen?’’, vroeg de draak. ‘Ik ben Joris, de heerser van water en vuur.’ ‘’HAHAHA’’, antwoordde de draak. ‘’ Goed geprobeerd.’’ ‘ ik heb net de hele oceaan in brand gezet’, zei Joris. ‘’ HAHAHA, dat kan echt niet’’, zei de draak. ‘ Jawel, kijk maar eens goed.’, zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.</p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak: ‘ beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.’</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel u dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-23",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Een woordje uitleg bij het verhaal</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tijdens de herfstvakantie vieren we twee feesten. Allerheiligen en Allerzielen. Weet jij wat deze feestdagen nu eigenlijk betekenen?</span><br></p><p>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ik zal je het eens kort uitleggen…&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Allerheiligen vieren we op 1 november. Christenen herdenken op die dag alle heiligen die vroeger leefden. Daarom noemen we deze dag ‘ Allerheiligen’.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Joris was bijvoorbeeld een heilige. Hij deed iets goeds voor andere mensen. Maar niet zomaar iets goeds voor andere mensen. Om iemand heilig te kunnen noemen moet hij wonderen hebben verricht.</span></p><p><br></p><p>Op 2 november vieren we Allerzielen. Op deze dag denken we terug aan alle mensen, vrienden en familieleden die zijn gestorven. Wanneer er iemand dood gaat geloven de Christenen dat de dode mensen verder leven in de hemel. Daarom gaan veel mensen op deze dag samen met hun familie naar de kerk of brengen ze een bezoekje aan het kerkhof.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-24",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Verwerking</b></p><p>Joris was een heilige, wie uit het rijtje is nog een heilige?</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">-\tDe kerstman</span><br></p><p>-\tSint- Nikolaas</p><p>-\tDe paashaas</p><p><br></p><p><br></p><p>Bij Allerzielen denk ik aan …………………………..</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Toen ik voor de laatste keer iemand verloor, voelde ik mij …………… .</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Op 2 november ga ik altijd ……………………… .&nbsp;</span><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-25",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/herfsttak-2000x632.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Op vierdaagse",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Het vierde leerjaar kreeg afgelopen week geen les in de klas. De juffen en meesters hadden een beter idee. Samen met hun leerlingen op herfstvierdaagse.</i></p><p><br></p><p>Het vierde leerjaar van basisschool de waaier werkte de laatste weken rond het thema ‘ de vier seizoenen ’. Dit deden ze deze keer niet achter hun schoolbanken in de klas. Maar de leerlingen trokken samen met hun leerkrachten naar de Belgische Ardennen.</p><p>Tijdens hun eerste dag maakten de leerlingen een wandeling langs de Ourthe. De gids vertelde de leerlingen dat de Ourthe een zijrivier is van de Maas en door de Belgische Ardennen stroomt.</p><p>De leerkrachten trokken de volgende dag samen met hun leerlingen de Belgische bossen in. De leerkrachten vertellen dat de natuur zich gaat voorbereiden op de kou. Tijdens de herfst veranderen de blaadjes van de bomen van kleur. De kleuren geel, oranje, bruin en rood komen tijdens de herfst veel voor. Het groene blad heeft ook nog wat groen in zich. Dit komt omdat er in het blad groene korreltjes zitten. Deze groene korreltjes zijn heel belangrijk voor het blad vertelde de meester. De boom slaat deze korreltjes op in zijn takken om niet uit te drogen in de winter.</p>",
+          "text2": "<p>De leerlingen trokken dieper en dieper het bos in en zagen verschillende soorten bomen. De es met zijn gladde bast en zijn zwarte knoppen, de berk met zijn zaden die ‘’ katjes’’ worden genoemd. En nog veel meer andere soorten bomen zoals Bij iedere boom namen de leerlingen een foto. Deze foto hangen ze dan samen in de klas op.</p><p>Ook ging het vierde leerjaar opzoek naar verschillende dieren in het bos. Zo zagen ze een eekhoorn, egel en een wild varken. Deze dieren bereiden zich tijdens de herfst voor op de koude winter. Ze gaan tijdens de herfstperiode opzoek naar eten. Zo begraaft de eekhoorn zijn eikels onder de grond om deze tijdens de winter terug op te graven. Zo hebben ze genoeg eten voor tijdens de winter. De boswachter vertelde de leerlingen dat er dit jaar weinig eikels en beukennootjes van de bomen zijn gevallen. Dit is voor veel dieren niet fijn. Ze kunnen geen eten vinden en hebben dus geen eten voor tijdens de koude winter.</p><p>&nbsp;</p><p>En voor je het weet zat de vierdaagse er al weer op. De leerlingen van basisschool De Waaier heeft tijdens deze vier dagen veel geleerd over de herfst. &nbsp;</p>"
         },
         {
           "_tags": [
@@ -1095,7 +1282,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-k",
+          "_anchor": "features3-2g",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1111,7 +1298,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "2",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -1126,10 +1313,10 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "Taal&nbsp;",
+          "subtitle1": "Help, juf!&nbsp;",
+          "caption1": "Deze oefeningen zijn ideaal als huiswerk of contractwerkje, want ze zijn volledig zelfstandig uit te voeren. Dit - uiteraard- best in het winterseizoen!",
+          "button1": "<a data-app-btn=\"true\" href=\"winter#msg-box8-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil oefenen!</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1138,10 +1325,10 @@
               "active": true
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title2": "Oh sparreboom...",
+          "subtitle2": "Jade Hermans",
+          "caption2": "... Oh sparreboom, wat zijn je takken wonderschoon!<br>Over Kerstmis doorheen de tijd",
+          "button2": "<a data-app-btn=\"true\" href=\"winter#msg-box8-2a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1190,6 +1377,246 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wintertak-2000x630.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Help, juf!&nbsp;",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Lesdoelen:&nbsp;</b></p><p><br></p><p>-\tDe leerlingen passen de verenkelings- en verdubbelingsregels toe.&nbsp;</p><p>-\tDe leerlingen passen de regels ivm hoofdletters toe.&nbsp;</p><p>-\tDe leerlingen schrijven de juiste letters wanneer er een tweeklank is.</p><p>-\tDe leerlingen schrijven correct woorden met eeuw, ieuw, uw/klankwoorden.&nbsp;</p><p>-\tDe leerlingen zoeken woorden die met winter te maken hebben in een woordzoeker.&nbsp;</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leerplandoelen</b>:</p><p>TOtg1 Plezier beleven aan taal en het spelen met taal &nbsp; &nbsp;</p><p>TOtg4 Mondeling en schriftelijk willen en durven communiceren en het nut daarvan inzien</p><p>TOsn3 Een schriftelijke boodschap overbrengen</p><p>●\tVrij schrijven (over gevoelens, ervaringen, gedachten, verwachtingen)</p><p>●\tEen verslag schrijven (over gebeurtenissen, (voor)gelezen verhalen of .. &nbsp;&nbsp;</p><p>TOsn4 Bij het schrijven aandacht besteden aan zins- en tekststructuur, lay-out en beeldende elementen, leesbaarheid, spelling en interpunctie</p><p>●\t6 - 9 Aandacht besteden aan spelling en interpunctie:ontdekken dat correcte …</p><p>●\t9 - 12 Aandacht besteden aan spelling en interpunctie:toepassen van inzichten…</p><p><br></p><p><br></p>",
+          "text2": "<p><b>Eindtermen:</b></p><p>4.3  Een brief schrijven aan een bekende om een persoonlijke boodschap of belevenis over te brengen.</p><p>4.7  De leerlingen kunnen voor het realiseren van bovenstaande eindtermen bovendien:</p><p>woorden met veranderlijk woordbeeld (regelwoorden) spellingsafspraken en -regels toepassen in verband met het schrijven van: &nbsp;&nbsp;</p><p>●\twerkwoorden</p><p>●\tklinker in open/gesloten lettergreep</p><p>●\tverdubbeling medeklinker</p><p>●\tniet-klankzuivere eindletter</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2f",
+          "_params": {
+            "imageSize": "28",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/taal1-1400x1393.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<b>In het volgend tekstje werden sommige letters weggelaten, kan jij ze aanvullen? (3e graad)</b><br>In de __erstvakantie ging Kato met haar vriendi__en, Luna en Noor, naar de kerstmarkt in het dorp. Ze ha__en op het n____s gezien dat er al veel bezoekers waren geweest. Op de kerstmarkt was het zeer druk, iedereen wou komen genieten van de geze__ige sfeer en de warme __ocomelk. Het was erg k__d buiten, want het sn____de! Vele witte vlokjes dwarrel__en naar beneden en vormde één wit tapijt. Kato vond dit natuurl__k zeer tof en bedacht een leuk pla__etje. Ze konden een sneeuwba__engevecht houden! Dit vonden Luna en Noor een goed idee, dus bego__en ze sneeuwballen te rollen. Zodra ze klaar w__ren, gooiden ze zo hard ze konden naar elkaar. Luna kreeg al meteen een gr__te sneeuwbal tegen haar hoofd, gelu__ig had ze haar muts op, anders was het wel heel koud geweest! De drie gingen nog wel een tijdje door, tot Noor opeens een di__e sneeuwbal gooide, maar deze niet op Kato of Luna terecht kwam, maar op een oud vr____tje! Ze renden onmi__e__ijk af op de vrouw, die al op de grond gevallen was. Ze hielpen haar recht en de meisjes exc__seerden zich. De vriendinnen voelden zich enorm schuldig en boden haar een warme drankje aan. Hier zei de vrouw natuurlijk geen nee tegen! Samen dronken ze een heerlijke warme chocomelk en gen__ten van de __erstsfeer. Eind goed, al goed!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Wat is jouw leukste herinnering aan de kerstvakantie? Schrijf hier een tekstje over van 8-10 zinnetjes. (2e graad)</b></p><p>_________________________________________________________________________<span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_________________________________________________________________________</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">_______________________________________________________________________________________________________________________</span></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/taal2-1400x1396.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Kan jij in de woordzoeker alle winterse woorden terugvinden?&nbsp;<br></b><br>- bevriezen&nbsp;<br>- december&nbsp;<br>- donker&nbsp;<br>- groen&nbsp;<br>- glas<br>- handschoenen<br>- ijzig<br>- kerstboom<br>- kerstmis<br>- koud<br>- muts<br>- seizoen<br>- sjaal<br>- skiën<br>- slee<br>- sneeuwman<br>- winter<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wintertak-2000x630.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Oh sparreboom, oh sparreboom...",
+          "text": "<p><b>Wat zijn je takken wonderschooon!&nbsp;</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><i>Ho ho ho! Het is weer bijna zover, Kerstmis komt eraan! Dit is dan ook meteen mijn favoriete feestdag. Wat ik zo tof vind aan Kerstmis? Het gezellig samenzijn met de familie, het lekkere eten, de gezellige kerstboom en natuurlijk ook de cadeautjes! Maar, vraag jij je soms ook niet af waarom we een versierde boom in huis zetten? Wel, dat en nog wat andere leuke weetjes, kan je hieronder lezen!</i></p><p><br></p><p>Het begon bij de Germanen</p><p>Met Kerstmis zetten we met z’n allen een kerstboom in huis en versieren we deze met lichtjes, kerstballen, slingers en misschien nog wel meer! Maar waarom zetten we juist een spar in huis? Wel, hiervoor moeten we heel ver terug in de tijd gaan, namelijk naar de Germanen. Deze stam leefde zo’n 2000 jaar geleden in West- en Noord-Europa. Het waren onze voorouders zeg maar. Zij versierden vroeger hun huizen al met groene takken. Het viel hen op dat midden in de winter, wanneer alle bomen hun blaadjes al waren verloren, de sparren mooi groen bleven. Ze geloofden dan ook dat deze bomen eeuwig bleven leven en magische krachten hadden!</p><p>De Germanen vierden op 21 december het midwinterfeest. Op deze dag was het feest, omdat de dagen terug langer werden. Het was dus eigenlijk een ‘het wordt opnieuw licht feest’. Daarom stond de spar bij hen symbool voor een nieuw begin.</p><p>Nu wil het toeval dat de Christenen rond deze periode ook een feest hadden, namelijk Kerstmis! Op deze dag werd Jezus geboren en een geboorte, dat staat ook voor een nieuw begin! Rond de 16e eeuw werden de Germaanse en de Christelijke feesten samengevoegd en zo ontstond de kerstboom!</p><p><br></p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het begin van de traditie zetten enkel de rijke mensen een kerstboom in huis. Dit veranderde na Wereldoorlog 2, toen plotseling iedereen deze mooi versierde boom in huis begon te zetten!</span><br></p><p><br></p><p>Kaarsen in de boom</p><p>Een Duitser was één van de eerste die eersten die een verlichte spar in huis zette. In deze vroege tijden bestonden lichtjes, die wij nu in onze boom hangen, nog niet. In plaats daarvan gebruikten ze kaarsen. Veilig was dit wel niet, de takken van de spar konden in brand schieten als je even niet oplette. Vandaar dat we tegenwoordig lichtjes hangen in plaats van kaarsen.</p><p>Maar hoe is deze traditie van Duistland naar onze landen gekomen? Wel, vele leden van het Nederlandse koningshuis trouwden met Duitse prinsessen. De Duitse dames wilden hun prachtig verlichte kerstboom natuurlijk niet opgeven en zo werd ook bij ons de traditie van lichtjes in de kerstboom geboren!</p><p><br></p><p>Oh dennenboom of oh sparrenboom?</p><p>Nu rest er natuurlijk nog één vraag, waarom gaan kerstliedjes steeds over dennenbomen en niet over sparren, de boom die we als kerstboom gebruiken? Net zoals bij de verlichte kerstboom, is het lied ‘Oh dennenboom’ afkomstig uit Duitsland. In het Duits is de titel van het liedje ‘O tannanbaum’. Tanne betekent in het Duits spar, maar omdat ze vonden dat dennenboom beter klonk dan spar in het liedje, hebben ze dit zo aangepast. Want zeg nu eerlijk, oh dennenboom klinkt echt wel beter dan oh sparrenboom</p>"
         },
         {
           "_tags": [

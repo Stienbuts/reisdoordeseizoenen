@@ -461,13 +461,6 @@ h6,
 #msg-box8-16 .mbr-section-title {
   color: #000000;
 }
-#msg-box8-18 .mbr-section-title,
-#msg-box8-18 p {
-  color: #fff;
-}
-#msg-box8-18 .mbr-section-title {
-  color: #000000;
-}
 #msg-box8-19 .mbr-section-title,
 #msg-box8-19 p {
   color: #fff;
@@ -478,6 +471,23 @@ h6,
 #msg-box8-19 .lead P {
   color: #000000;
 }
+#msg-box8-18 .mbr-section-title,
+#msg-box8-18 p {
+  color: #fff;
+}
+#msg-box8-18 .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-18 .lead P {
+  color: #000000;
+}
+#msg-box8-25 .mbr-section-title,
+#msg-box8-25 p {
+  color: #fff;
+}
+#msg-box8-25 .mbr-section-title {
+  color: #000000;
+}
 #msg-box8-j .mbr-section-title,
 #msg-box8-j p {
   color: #fff;
@@ -486,6 +496,26 @@ h6,
   color: #000000;
 }
 #msg-box8-j .lead P {
+  color: #000000;
+}
+#msg-box8-29 .mbr-section-title,
+#msg-box8-29 p {
+  color: #fff;
+}
+#msg-box8-29 .mbr-section-title SPAN {
+  color: #000000;
+}
+#msg-box8-29 .lead P {
+  color: #000000;
+}
+#msg-box8-2a .mbr-section-title,
+#msg-box8-2a p {
+  color: #fff;
+}
+#msg-box8-2a .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-2a .lead P {
   color: #000000;
 }
 #msg-box8-o .mbr-section-title,
