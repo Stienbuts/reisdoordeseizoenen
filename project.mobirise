@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1527,7 +1527,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -1546,7 +1546,32 @@
               "loop": false
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1j",
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/flipquiz-1400x796.jpg",
+              "width": 1400,
+              "link": "https://flipquiz.com/review/39552 ",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>"
         }
       ]
     }
