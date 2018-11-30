@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,18 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#aaed67"
+        "#aaed67",
+        "#222222"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 40,
     "versionPublish": "4.2.2"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -64,7 +65,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Reis door de vier seizoenen",
+          "title": "Reis door de seizoenen",
           "text": "Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -111,7 +112,7 @@
           "title1": "Lente&nbsp;",
           "subtitle1": "",
           "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zomer-600x600.jpg",
@@ -127,7 +128,7 @@
           "title2": "Zomer",
           "subtitle2": "",
           "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/herfst-600x600.jpg",
@@ -143,7 +144,7 @@
           "title3": "Herfst",
           "subtitle3": "",
           "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/winter-600x600.jpg",
@@ -158,8 +159,8 @@
           },
           "title4": "Winter",
           "subtitle4": "",
-          "caption4": "De winter is het seizoen van wanten en kou<br>Dat is precies waar ik van hou<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard<br>Nog maar drie maanden en het is alweer maart<br>Sinterklaas, kerst en nieuwjaar horen erbij<br>En al die gezelligheid<br>Wat maakt de winter me blij!<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
+          "caption4": "De winter is het seizoen van wanten en kou\n<br>Dat is precies waar ik van hou\n<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard\n<br>Nog maar drie maanden en het is alweer maart\n<br>Sinterklaas, kerst en nieuwjaar horen erbij\n<br>En al die gezelligheid\n<br>Wat maakt de winter me blij!<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -407,7 +408,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "title": "Klavier op school&nbsp;",
+          "title": "Klavier op school",
           "meta": "Een pleidooi voor meer typeles op de lagere school",
           "_tags": [
             "Theme"
@@ -421,7 +422,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><i>Tijdens contractwerk kregen de kinderen van onze stageklas de opdracht om online oefeningen te maken. Hiervoor moesten ze surfen naar een bepaalde website. Dit ging minder vlot dan verwacht: de kinderen hadden enorm veel moeite om het juiste woord in de zoekbalk in te geven! In tijden waarin computers een essentiële rol spelen, is dit bijna absurd. </i></p><p><span style=\"font-size: 1.07rem;\">Swipen en tikken lukt leerlingen zonder enige moeite, maar de motorische vaardigheid van het typen met tien vingers ontbreekt. </span><span style=\"font-size: 1.07rem;\">Normschrift wordt nog steeds hoog in het vaandel gedragen door menig leerkracht. Rechte letters, niet kribbelen, mooi op het lijntje. De leermiddelen in het lager onderwijs zijn voornamelijk analoog, het belang aan een verzorgd handschrift is dus niet onbegrijpelijk. In het latere leven merken we echter dat mensen aanzienlijk minder op papier zetten. Communicatie gebeurt via chat en mail, wanneer schreef u voor het laatst een brief? Onze agenda houden we bij in onze smartphone, zelfs de kleinste notities. Het wordt hoog tijd dat deze focus ook in het onderwijs verlegd wordt. Digitale ongeletterdheid moet aangepakt worden.&nbsp;</span><br></p><p><br></p><p>\n</p><p><b>Het moet van de leerkracht komen\n</b></p><p>Na het lager onderwijs komen kinderen terecht in het middelbaar onderwijs. Vanaf dit moment wordt er van hen verwacht dat ze kunnen typen: nu moeten ze opstellen schrijven, mailtjes sturen en presentaties voorbereiden. De ene leerling gaat dit alles beter af dan de andere, en veel heeft te maken met je vaardigheden op het klavier.&nbsp;<span style=\"font-size: 1.07rem;\">We merken dat de leerkracht een zeer grote vrijheid in de keuze om al dan niet ICT aan te bieden in zijn lespakket. Bij een jonge leerkracht die zelf interesse heeft in digitale methodes en de kinderen hiermee aan de slag laat gaan, zullen de leerlingen grotere vooruitgangen op vlak van ICT boeken dan bij een oudere leerkracht die minder gebruikmaakt van digitale media in de les. Zijn er hieromtrent dan geen leerplandoelen of eindtermen vastgelegd?</span></p>",
+          "text1": "<p><i>Tijdens contractwerk kregen de kinderen van onze stageklas de opdracht om online oefeningen te maken. Hiervoor moesten ze surfen naar een bepaalde website. Dit ging minder vlot dan verwacht: de kinderen hadden enorm veel moeite om het juiste woord in de zoekbalk in te geven! In tijden waarin computers een essentiële rol spelen, is dit bijna absurd. </i></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>Wanneer schreef u voor het laatst een brief?&nbsp;</b></p><p><span style=\"font-size: 1.07rem;\">Swipen en tikken lukt leerlingen zonder enige moeite, maar de motorische vaardigheid van het typen met tien vingers ontbreekt. </span><span style=\"font-size: 1.07rem;\">Normschrift wordt nog steeds hoog in het vaandel gedragen door menig leerkracht. Rechte letters, niet kribbelen, mooi op het lijntje. De leermiddelen in het lager onderwijs zijn voornamelijk analoog, het belang aan een verzorgd handschrift is dus niet onbegrijpelijk. In het latere leven merken we echter dat mensen aanzienlijk minder op papier zetten. Communicatie gebeurt via chat en mail, wanneer schreef u voor het laatst een brief? Onze agenda houden we bij in onze smartphone, zelfs de kleinste notities. Het wordt hoog tijd dat deze focus ook in het onderwijs verlegd wordt. Digitale ongeletterdheid moet aangepakt worden.&nbsp;</span><br></p><p><br></p><p>\n</p><p><b>Het moet van de leerkracht komen\n</b></p><p>Na het lager onderwijs komen kinderen terecht in het middelbaar onderwijs. Vanaf dit moment wordt er van hen verwacht dat ze kunnen typen: nu moeten ze opstellen schrijven, mailtjes sturen en presentaties voorbereiden. De ene leerling gaat dit alles beter af dan de andere, en veel heeft te maken met je vaardigheden op het klavier.&nbsp;<span style=\"font-size: 1.07rem;\">We merken dat de leerkracht een zeer grote vrijheid in de keuze om al dan niet ICT aan te bieden in zijn lespakket. Bij een jonge leerkracht die zelf interesse heeft in digitale methodes en de kinderen hiermee aan de slag laat gaan, zullen de leerlingen grotere vooruitgangen op vlak van ICT boeken dan bij een oudere leerkracht die minder gebruikmaakt van digitale media in de les. Zijn er hieromtrent dan geen leerplandoelen of eindtermen vastgelegd?</span></p>",
           "text2": "<p><b><span style=\"font-size: 1.07rem;\">Wat zeggen de leerplannen en eindtermen?</span><br></b></p><p>In de eindtermen vind je niets concreets terug i.v.m. klaviervaardigheden. De onderwijsdoelen in verband met ICT zijn zeer abstract. ICT wordt gezien als leergebiedoverschrijdend: het dient geïmplementeerd te worden in andere vakken. Dit kan ik alleen maar toejuichen. Ik ben er echter van overtuigd dat bepaalde elementen uit ICT, onder andere klaviervaardigheden, als autonoom leerstofonderdeel behandeld dienen te worden. In de leerplannen van het ZILL van het Katholiek Onderwijs Vlaanderen vinden we de ontwikkeling van technische en instrumentele computervaardigheden wel terug onder mediakundige ontwikkeling: vanaf zes jaar exploreren kinderen het toetsenbord. Vanaf acht jaar ontwikkelen ze klaviervaardigheden, waaronder toetsenbord hanteren. Leerlingen van het Katholiek Onderwijs zullen in de toekomst dus zeker typelessen aangeboden krijgen op school. De criteria blijven echter vaag. Er bestaat geen maatstaf om aan te geven in hoeverre men het klavier beheerst.</p><p><br></p><p>\n</p><p><b>Nood aan normering\n</b></p><p>Een oplossing is om niveaus vast te leggen waaraan leerlingen getoetst kunnen worden. Dit kan vastgelegd worden op basis van minimumsnelheid (aantal slagen per minuut) en accuratesse (in percentage). Ik denk hierbij aan een systeem gelijkend aan de AVI-niveaus bij het lezen. Deze niveaus kunnen vervolgens geïmplementeerd worden in de eindtermen en leerplandoelen.\n</p><p><br></p><p>Meer typelessen en een duidelijke maatstaf hieromtrent is wat tekortschiet in onze eindtermen. Als alle scholen dit zouden toepassen, bewapenen we de generatie van de toekomst met de juiste vaardigheden om zelfstandig de digitale wereld te veroveren.\n</p><p><br></p>",
           "_tags": [
             "Theme"
@@ -446,8 +447,9 @@
     },
     "sjabloon": {
       "settings": {
-        "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "title": "sjabloon",
+        "meta_descr": "Site Maker Description",
+        "order": 5
       },
       "components": [
         {
@@ -496,6 +498,525 @@
           },
           "_anchor": "slider3-a",
           "articleLayout": false
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Lente",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/scan-banner-lente-745x239.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lente",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wiskunde",
+          "subtitle1": "Help, juf!",
+          "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html#msg-box8-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik zien!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lentetak-751x239.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Wiskunde: Help, juf!",
+          "text": "<p>Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Lesdoelen</b>:\n</p><p>De leerlingen vullen de eenvoudige vraagstukken aan, waarin maaltafels en optellingen verwerkt zitten.\n</p><p>De leerlingen spiegelen figuren om een as, zonder gebruik van een spiegel.\n</p><p>De leerlingen berekenen de totaalprijs door verschillende prijzen op te tellen.\n</p><p>De leerlingen zetten de prijzen om aan de hand van hoeveel ze van elk ingrediënt nodig hebben.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leerplandoelen</b>:</p><p><br></p><p>\n</p><p>Opdracht 1</p><p>WDrv4: Handig hoofdrekenen&nbsp;</p><p>Delen &gt; natuurlijke getallen &gt; de deeltafels tot 10 paraat kennen\n</p><p>Delen &gt; natuurlijke getallen &gt; de deeltafels tot 10 inzichtelijk verwerven in betekenisvolle situaties</p><p><br></p><p>Opdracht 2</p><p>\n</p><p>WDmk3: Inzicht verwerven in meetkundige relaties</p><p>Spiegelingen en symmetrie &gt; onderzoeken van spiegelbeelden door actief ervaringen op te doen\n</p><p>Spiegelingen en symmetrie &gt; onderzoeken en vaststellen van spiegelbeelden in de omgeving en in vlakke figuren door een spiegel te gebruiken of door te vouwen\n</p><p>Spiegelingen en symmetrie &gt; spiegelbeelden van eenvoudige figuren tekenen op geruit papier</p><p><br></p><p>Opdracht 3</p><p>\n</p><p>WDmm3: Schatten, meten en rekenen met maateenheden</p><p>Geld &gt; samenstellen van bedragen in betekenisvolle situaties\n</p><p>Geld &gt; rekenen met geld en gepast betalen op verschillende manieren in eenvoudige betekenisvolle situaties\n</p><p>Geld &gt; de afkortingen/symbolen euro, EUR, € kennen en gebruiken\n</p><p>Geld &gt; rekenen met geld en gepast betalen op verschillende manieren in betekenisvolle situaties</p>",
+          "text2": "<p><b>Eindtermen</b>:\r</p><p><br></p><p>1.13 De leerlingen voeren opgaven uit het hoofd uit waarbij ze een doelmatige oplossingsweg kiezen op basis van inzicht in de eigenschappen van bewerkingen en in de structuur van getallen:\r</p><p>Optellen en aftrekken tot honderd\r</p><p>Optellen en aftrekken met grote getallen met eindnullen\r</p><p>Vermenigvuldigen met en delen naar analogie met de tafels\r</p><p>1.10 De leerlingen zijn in staat tot een onmiddellijk geven van correcte resultaten bij optellen en aftrekken tot 10, bij tafels van vermenigvuldiging tot en met de tafels van 10 en de bijhorende deeltafels.\r</p><p>1.23 De leerlingen kunnen in een zinvolle context eenvoudige breuken en kommagetallen optellen en aftrekken. In een zinvolle context kunnen zij eveneens een eenvoudige breuk vermenigvuldigen met een natuurlijk getal.\r</p><p>3.6 De leerlingen kunnen de begrippen symmetrie, gelijkvormigheid en gelijkheid ontdekken in de realiteit. Ze kunnen zelf eenvoudige geometrische figuren maken.\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>OEFENING 1  (2de graad)\n</b></p><p><span style=\"font-size: 1.07rem;\">Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen?&nbsp;</span><br></p><p>1. De 9 meisjes van haar klas gaan alle rode bloemen plukken. Op het veld staan 45 rode bloemen. Hoeveel bloemen moet elk meisje plukken?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>2. De jongens beslissen om alle blauwe bloemen te plukken. In totaal staan er 28 blauwe bloemen. Er zitten 7 jongens in de klas. Hoeveel bloemen plukt elke jongen?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>3. Hoeveel bloemen stonden er in het begin op de weide als je weet dat er ook nog eens 18 witte bloemen stonden?\n</p><p>&nbsp;________________________________________________________________________________________________________________________</p><p><br></p><p><br></p><p><br></p><p><br></p><p>\n</p><p><b>OEFENING 2  (3e graad)</b> \n</p><p>Kan jij de figuren spiegelen zonder gebruik van een spiegel?\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "1",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wiskunde1-500x323.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wiskunde1-500x323-500x323.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wiskunde2-502x323.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wiskunde2-502x323-502x323.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wiskunde3-303x296.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wiskunde3-303x296-303x296.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>OEFENING 3  (2de graad)\n</b></p><p><b><br></b></p><p>Wanneer de lente begint, bakt oma altijd haar lekkere lentetaart met verschillende soorten fruit erin. Hiervoor gaat ze eerst naar de winkel, kan jij haar helpen door uit te rekenen hoeveel haar boodschappen zullen kosten?\n</p><p>Wanneer ze in de winkel komt ziet ze de prijzen van de producten:\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Suiker: €1,00 per pak\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Melk: €3,00 per fles\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Eieren: €2,00 voor 6 eieren\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Bloem: €2,50 per pak\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Aardbeien: €4,50 per bakje\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Kiwi’s: €0,80 per kiwi\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Perziken: €0,50 per perzik\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Appels: €0,30 per appel</p><p><br></p><p>\n</p><p>Reken nu uit hoeveel oma zal moeten betalen voor alle ingrediënten samen. Let op! Sommige prijzen zul je moeten delen of vermenigvuldigen. Kijk goed naar hoeveel oma van elks nodig heeft!\n</p><p>____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</p><p><br></p><p>Oma heeft in totaal €22,00 bij. Zal ze hier mee toekomen? Ja / nee&nbsp;</p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "“Er was eens…”\r",
+          "meta": "Schoolgevoelens",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\">Laureen sluit haar boekje. “Het heeft toch geen zin om het op te schrijven! Ik heb geen goede ideeën!” denkt ze luidop. Ze doet haar handschoenen weer aan. “Het is toch al april? De zon zou moeten schijnen en het zou opnieuw warm moeten worden!”, denkt ze in zochzelf. Een meisje dat er heel stoer uitziet komt opeens naast haar zitten. “Wie ben jij? Ben je nieuw hier? Ik heb je hier nog nooit gezien. Oh, natuurlijk ben je dan nieuw! Stom van me. Wat doe je?”, ratelt ze, heel vastberaden om antwoord te krijgen op al haar vragen. “Euhm”, hapert Laureen verlegen.                                                                                                       “Oh ik vergeet me al bijna voor te stellen! Ik ben Julia!” Roept ze luid.                             “Hey, euhm, ik ben, euhm, Laureen.”, fluistert ze bijna.                                                                   Julia grijpt meteen in: “Hey, joh, niet zo verlegen! Wat was je daar trouwens aan het doen met dat boekje daarnet? Is het je dagboek? Interessant! Mag ik weten wat er is staat? Ben je verliefd? Op wie, op wie, op wie?”.                                                                                                                        “Ik ben niet verliefd.”, zegt Laureen stil.                                                                                         “Ah, komaan, aan mij kan je het wel vertellen! Je kent mij toch? Je weet toch dat ik Julia heet? Als je mijn naam weet, dan ken je mij. Mij kan je vertrouwen!”, roept ze opnieuw heel enthousiast.                                                                                        “Het is geen dagboek.”, zegt ze een beetje beschaamd door het volume in de stem van Julia. “Maar, wat dan? Zeg het, zeg het, zeg het! Please?”.                                                                     “Het is maar stom.”, schaamt ze zich alweer.                                                                                    “Ik zal niet lachen! Alstublieft? Pleaseeeeeeeeeee…?!”</span><br></p><p>\n</p><p>“Hey kleine! Hoe was je dag?” roept de grote broer van Laureen van op de zolder, wanneer hij haar hoort binnenkomen en ze haar handschoenen en sjaal op het tafeltje in de gang legt. De zolder hebben ze, toen ze daar waren komen wonen, omgebouwd tot een super coole, jongensachtige slaapkamer, met een hoogslaper als bed met een luxe zetel eronder, een bureau die zo groot is als een gigantische werktafel (die er even rommelig uitzag) als in een groot bedrijf en een postermuur met posters van zijn favoriete band. Het waren er zo veel dat het leek of zijn volledige muur beplakt was met behangpapier.                                                         “Bwa, valt wel mee!”,  roept ze als antwoord op de vraag die ze eigenlijk wilde ontwijken. Hij komt naar beneden om een gesprek met haar te kunnen voeren zonder dat ze moeten roepen.                                                                                      “Oei, dat klinkt niet heel overtuigd?”, vraagt hij op een toon dat het geïnteresseerd overkwam. “Een meisje dat kakelt als een kip naast mijn oren en verder niets speciaals.”, antwoordt ze, niet wetend of hij het wel helemaal begrepen heeft. Haar broer strompelt terug naar boven, omdat hij voelt dat het geen zin heeft om met Laureen nog verder een gesprek te voeren. Ze heeft toch niets te vertellen.\n</p><p>\n</p><p>“Laureen !!!”. Laureen schrikt wakker uit haar diepe slaap. “Ik heb nu al 3 keer geroepen!” roept mama lichtjes geïrriteerd.                                                                                                                 “Ik kom al!” roept de slaapdronken Laureen naar haar mama die in de keuken een eitje voor haar staat te bakken. Al strompelend wandelt Laureen de keuken binnen. “Moest ik nu maar niet naar school.” dacht ze.                                                                                                 “Ook niet echt enthousiast precies? Scheelt er iets? Als er iets is heb ik liever dat je het zegt dan dat je ermee blijft rondlopen he?... Laureen! Je bent er niet bij met je gedachten!”, raast mama. “Laat mij maar gewoon.”, zucht Laureen.</p><p>De dag kroop voorbij en de volgende dagen slopen al even traag, trager kon niet. Het werd steeds warmer en de vogeltjes floten dagelijks hun favoriete deuntjes. Maar vandaag was het wel heel anders gelopen dan de voorbije weken! Een heel onopvallende grijze muis in de klas was opeens niet zo onopvallend meer. De presentatie van Wouter, voor zijn lievelingsvak Nederlands, over zijn lievelingsboek, was zo fantastisch! Zo origineel! Zo goed uitgelegd! Zo goed voorbereid! Gewoon perfect! Niemand was dan ook verrast over de 20/20 die hij behaalde. Laureen was er nog van onder de indruk! Zou ze verliefd zijn? Was dit dan dat fantastische gevoel dat je kreeg als je aan die persoon dacht?\r</p><p><br></p>",
+          "text2": "<p>\n</p><div><span style=\"font-size: 1.07rem;\">De volgende dagen waren net een sneltrein. De les godsdienst van enkele dagen later zet Laureen aan het denken. “Volg je hart. Als het je een gevoel geeft dat je iets niet moet doen, doe het dan ook niet en omgekeerd ook natuurlijk! Als je hart zegt dat je iets wel moet doen, ga er dan voor!”, klonk het uit de mond van de enthousiaste juf van godsdienst.</span><br></div><div>Laureen ploft neer op haar bed. Dit is de enige plek die echt vertrouwd voelt. De enige plek waar ze zich echt thuis voelt. Hier kan ze zichzelf zijn! “Wat moet ik nu doen met Wouter? Als het echt juist is wat juf Sarah zegt over je hart volgen, moet ik hem dan vertellen over mijn gevoelens? Of hou ik het beter voor mijzelf? Zou hij mij begrijpen? Ben ik hem ook opgevallen? Wat zou hij van mij denken? Hij is misschien ook verliefd op mij! Af en toe zie ik hem wel eens kijken, maar wat betekent dat? Waarom is dit toch zo ingewikkeld?! Misschien kan ik eens aan Julia vragen wat zij zou doen?... Nee, laat maar, zij is zo een flapuit! Zij zou het toch maar doorvertellen, zonder dat ze het zelf besefte en binnen de kortste keren weet heel de school het! Natuurlijk zou ze het niet met opzet doen, maar toch. Julia is dus geen optie.”, spoken de gedachten in het hoofd van Laureen. Ze laat haar gedachten de vrije loop, op zoek naar een oplossing. Na een hele tijd luisteren naar haar vermoeiende gedachten die als spoken door haar hoofd dwalen, valt ze in een diepe slaap die nog niet door het minste geluid rondom haar, verstoord kan worden.\n</div><div>Na een paar dagen piekeren komt Laureen vastberaden aan op school. Ze gaat het doen! Ze gaat het hem zeggen! Na al die weken weet ze al een heel stuk meer over hem. Ze heeft een plan. Voor 1 keer kwam ze heel vroeg naar school. Het uur waarop Wouter de schoolpoort binnenstapt heeft ze ook perfect uitgedokterd. Het was bijna een obsessie geworden! In de klas hangen bakjes, voor iedereen 1. Hierin kunnen de kinderen van de klas boodschappen achterlaten voor elkaar. Voor ze haar briefje in het gleufje van Wouters bakje stopte, dacht ze nog even aan hoe perfect hij wel was. Op haar briefje stond in de meest sierlijke letters die Laureen ooit geschreven had:\n</div><div>Liefste Wouter\n</div><div>Kan ik je deze middag even spreken?\n</div><div>Groetjes Laureen xxx.\n</div><div>&nbsp;\n</div><div>Tijdens de middag zit Laureen met haar boekje op haar schoot, lekker in de zon op de speelplaats. Wouter stapt op haar af. “Waarom moest je mij spreken?”, vraat hij. Laureen voelt dat haar gezicht een rood kleurtje krijgt en krijgt geen woord uitgesproken. “Wat was er nu?”, vraagt hij een beetje lacherig na enkele lange seconden van stilte. “Ik, euhm, ik denk dat ik, euhm…”, hapert ze en Wouter onderbreekt haar met een lange kus op haar zachte lippen. “Gekkie! Ik had je wel door!”, lacht hij wanneer hun lippen elkaar niet meer raken. Waauw! Laureen is helemaal in de wolken! Wanneer ze thuiskomt, danst ze de sterren van de hemel in haar kamer. Wat een feest! Haar allergrootste droom is uitgekomen!</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Zomer",
+        "order": 3
+      },
+      "components": []
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Herfst",
+        "order": 2
+      },
+      "components": []
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Winter",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/scan-banner-winter-720x229.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Winter",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-j"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-l"
         }
       ]
     }
