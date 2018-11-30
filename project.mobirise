@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "winter",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2032,15 +2032,23 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "Reis door de seizoenen",
-          "text": "Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text": "<b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_tags": [
@@ -2465,7 +2473,21 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>lesdoelen:</p><p>De leerlingen begrijpen de achterliggende reden van de feestdagen.</p><p>De leerlingen zien in dat sommige feestdagen verschillen van datum door bijkomende uitleg van hun leerkracht.</p><p><br></p><p><br></p><p>leerplandoelen:</p><p>RKgs3 \tOpenkomen voor de symboliek, geloofstaal, rituelen en vieringen in het van mensen op het ritme van het liturgisch jaar deze mee beleven.</p><p>OWti7 7 - 12 \tDe geschiedenis van veel voorkomende culturele, katholiek en andere religieuze en historische feesten en gebeurtenissen achterhalen.</p><p><br></p><p>eindtermen:</p><p>De leerlingen…</p><p>3.8 kunnen aan de hand van een voorbeeld illustreren dat een actuele toestand, die voor kinderen herkenbaar is, en die door de geschiedenis beïnvloed werd, vroeger anders was en in de loop der tijden evolueert.</p>"
+          "text": "<p><b>lesdoelen:</b></p><p>De leerlingen begrijpen de achterliggende reden van de feestdagen.</p><p>De leerlingen zien in dat sommige feestdagen verschillen van datum door bijkomende uitleg van hun leerkracht.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leerplandoelen</b>:&nbsp;<br>RKgs3 Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het van mensen op het ritme van het liturgisch jaar deze mee beleven.</p><p><br></p><p>OWti7 7 - 12 De geschiedenis van veel voorkomende culturele, katholiek en andere religieuze en historische feesten en gebeurtenissen achterhalen.</p>",
+          "text2": "<p><b>eindtermen:</b></p><p>De leerlingen…</p><p>3.8 kunnen aan de hand van een voorbeeld illustreren dat een actuele toestand, die voor kinderen herkenbaar is, en die door de geschiedenis beïnvloed werd, vroeger anders was en in de loop der tijden evolueert.</p>"
         },
         {
           "_tags": [
