@@ -1521,37 +1521,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-1g",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/flipquiz-1400x796.jpg",
-              "width": 1400,
-              "active": true,
-              "link": "https://flipquiz.com/review/39552/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "class": "mbr-embedded-video",
-              "src": "https://flipquiz.com/review/39552 ",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "video1",
           "_anchor": "video1-1j",
           "_params": {
@@ -1571,7 +1540,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>"
+          "text": "<p><a href=\"https://flipquiz.com/review/39552 \">Link naar de flipquiz</a></p>"
         }
       ]
     }
