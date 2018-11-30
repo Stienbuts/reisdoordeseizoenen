@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "Zomer",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -789,7 +789,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Zomer\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
         }
       ]
     },
@@ -1654,7 +1654,7 @@
           "title1": "Lente&nbsp;",
           "subtitle1": "",
           "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Lente\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zomer-600x600.jpg",
@@ -1670,7 +1670,7 @@
           "title2": "Zomer",
           "subtitle2": "",
           "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/herfst-600x600.jpg",
@@ -1686,7 +1686,7 @@
           "title3": "Herfst",
           "subtitle3": "",
           "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/winter-600x600.jpg",
@@ -1702,7 +1702,7 @@
           "title4": "Winter",
           "subtitle4": "",
           "caption4": "De winter is het seizoen van wanten en kou\n<br>Dat is precies waar ik van hou\n<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard\n<br>Nog maar drie maanden en het is alweer maart\n<br>Sinterklaas, kerst en nieuwjaar horen erbij\n<br>En al die gezelligheid\n<br>Wat maakt de winter me blij!<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"winter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
