@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "Zomer",
+    "currentPage": "herfst",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 70,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -174,7 +174,7 @@
           "title1": "Beweging",
           "subtitle1": "Jolige Yoga",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil bewegen!&nbsp;</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Zomer#msg-box8-1d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil bewegen!&nbsp;</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -184,9 +184,9 @@
             }
           },
           "title2": "Techniek",
-          "subtitle2": "de",
+          "subtitle2": "Het robot wonder",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil een robothand maken!&nbsp;</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Zomer#msg-box8-1e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil een robothand maken!&nbsp;</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -310,8 +310,8 @@
           "_name": "features3",
           "_anchor": "features3-1q",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -427,8 +427,8 @@
           "_name": "features3",
           "_anchor": "features3-1r",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -548,8 +548,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/zomertak-778x262.jpg",
@@ -559,16 +559,224 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Het robot wonder",
+          "text": "<b>KORTE</b> <b>INLEIDING: TO DO</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Lesdoelen: TO DO</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leerplandoelen</b></p><p><br></p><p>OWte5: Vaststellen en uitdrukken hoe wetenschap, techniek en de samenleving elkaar beïnvloeden</p><p>●\tNieuwsgierig zijn naar onderzoek en actuele uitvindingen – nadenken over het impact van nieuwe wetenschappelijke en technische ontwikkelingen op het dagelijks leven.</p><p>●\tWaardering uiten voor uitvindingen, wetenschappelijk onderzoek en de positieve effecten ervan – illustreren hoe wetenschap, techniek en de samenleving elkaar beïnvloeden</p><p>OWte8: De relatieve waarde van techniek ervaren, vaststellen en hierover in interactie gaan</p><p>●\tErvaren en vaststellen in welke mate we afhankelijk zijn van techniek en welke de beperkingen ervan zijn en hierover in interactie gaan</p><p>OWte9: Vaststellen en uitdrukken dat technische systemen nuttig, duurzaam, gevaarlijk en/of schadelijk kunnen zijn voor zichzelf, anderen, natuur of milieu</p><p>●\tAan de hand van voorbeelden uit verschillende toepassingsgebieden van techniek illustreren dat technische systemen nuttig, gevaarlijk en/of schadelijk kunnen zijn voor zichzelf, voor anderen of voor natuur en milieu</p><p><br></p>",
+          "text2": "<p><b>Eindtermen</b></p><p><br></p><p>2.5 De leerlingen kunnen illustreren dat technische systemen evolueren en verbeteren.</p><p>2.13 De leerlingen kunnen een eenvoudige werktekening of handleiding stap voor stap uitvoeren</p><p>2.16 De leerlingen zijn bereid hygiënisch, nauwkeurig, veilig en zorgzaam te werken.</p><p>2.17 De leerlingen kunnen illustreren dat techniek en samenleving elkaar beïnvloeden.</p><p>2.18 De leerlingen kunnen aan de hand van voorbeelden uit verschillende toepassingsgebieden van techniek illustreren dat technische systemen nuttig, gevaarlijk en/of schadelijk kunnen zijn voor henzelf, voor anderen of voor natuur en milieu.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p>Een vrachtwagen raakt in een harde klap een man. Mensen stappen uit hun auto’s om te kijken wat er gebeurd is en de vrachtwagenchauffeur belt in paniek de hulpdiensten. Zij komen zo snel ze kunnen, terwijl de man bewusteloos op de grond ligt. De verplegers van de ambulance luisteren of hij nog ademt en zoeken snel naar zijn portefeuille om te kijken of ze zijn identiteitskaart vinden zodat ze kunnen zien wie de man is. Even later zijn ze er achter gekomen dat de man Gert-Jan heet en hij 28 jaar oud is. Zo snel ze kunnen rijden ze naar het ziekenhuis.</p><p>Wanneer Gert-Jan enkele uren later wakker wordt in een ziekenhuisbed, schrikt hij heel erg. Hij kan zijn benen niet meer bewegen! Hij is bijna volledig verlamd en kan niet meer wandelen. Hij is heel erg geschrokken en geeft de moed bijna op, maar de dokters beloven hem dat ze hun uiterste best zullen doen om hem te helpen.</p><p><br></p><p>7 jaar lang leefde Gert-Jan in een rolstoel. Hij probeerde heel vaak te wandelen, maar het lukte nooit. Hij kon niet meer rechtstaan op zijn benen zonder dat hij zich aan iets moest vasthouden… maar vandaag zal daar verandering in komen! De dokters komen hem goed nieuws brengen. “Dag Gert-Jan, we hebben geweldig nieuws voor jou! We hebben robotbenen voor jou ontworpen waarmee je terug zal kunnen wandelen!”, vertellen ze. Hij krijgt tranen in zijn ogen en kan het niet geloven. Zo snel hij kan probeert hij samen met de dokters de benen aan te doen en recht te komen uit zijn rolstoel. Het lukt hem en stap voor stap komt hij vooruit. Het is heel vermoeiend, maar hij genoot er zo van! Wanneer hij terug in zijn rolstoel zit om even uit te rusten, neemt hij zo snel hij kan zijn gsm en begint al zijn vrienden en familie op te bellen om hen het wonderbaarlijke nieuws te vertellen. Iedereen is super enthousiast. Dit moet gevierd worden!</p><p><br></p><p>Een paar weken later, op een prachtige zomerdag, is het zover. Gert-Jans feest is eindelijk daar. Hij staat in het middelpunt van de belangstelling, wordt echt in de bloemetjes gezet en loopt een stukje terwijl iedereen er rond staat en voor hem applaudisseert. Na de 7 jaren van revalidatie van zijn ongeluk, is hij eindelijk terug echt gelukkig!</p><p><br></p><p>Doordat we technologie hebben kunnen we heel veel, zoals mensen opnieuw laten lopen, maar ook communiceren van op een afstand en zoveel andere dingen. Knap he? Denk eens na hoeveel technologische dingen jij thuis hebt. Sta erbij stil hoe een grote invloed technologie heeft op ons leven. Bedenk een manier waarop we de technologie die ons leven veel gemakkelijker maakt, kunnen vieren!</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1w",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/techniek1-1400x1530.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Zelf een robothand maken",
+          "text": "Benodigdheden:<br>-\tEen stuk karton dat groter is dan je<br>            hand<br>-\tEen potlood<br>-\tEen schaar<br>-\t5 rietjes<br>-\tLijm<br>-\t5 touwtjes<br>-\tEventueel een perforator<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1x",
+          "_params": {
+            "imageSize": "29",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/techniek2-1400x2123.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "De robot hand maken we in 6 stappen:<br>1.\tNeem een stuk karton, leg je hand er op en teken met een potlood de omtrek van je hand er op.<br>2.\tKnip je eigen hand uit het karton. Dit kan moeilijk zijn, dus let goed op! Vraag eventueel hulp aan een volwassene.<br>3.\tNeem 5 rietjes en knip deze in … stukjes.<br>4.\tPlak op elke vinger … stukjes van het rietje.<br>5.\tMaak bovenaan in elke vinger een gaatje met een schaar of perforator, knoop er een draadje aan en haal het door alle stukjes van het rietje die op die vinger geplakt zijn.<br>6.\tJe robot hand is klaar! Wanneer je aan een touwtje trekt, zal de vinger waaraan het touwtje bevestigd is bewegen… Testen maar!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/zomertak-2000x673.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Gezonde vieruurtjes",
+          "text": "<p><b>Bo Vansant</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Chocolade, koeken, wafels, dracula tandjes, taartjes,... Het is allemaal heel lekker maar niet zo gezond. Dit is jammer want we moeten wel gezond eten en dit begint al bij onze vieruurtjes die dat ook moeten zijn.</i></span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het is namelijk heel belangrijk dat je tussen je maaltijden die je in de ochtend, middag en avond eet, ook wel eens een gezonde snack neemt. Wanneer je thuiskomt van school heb je vaak wel honger, je moet dan geen snoepje nemen om deze honger te laten verdwijnen. Een gezonde snack is snel genomen en ook heel lekker.&nbsp;</span><br></p><p><br></p><p>Als je al eens een stuk fruit eet, ben je al heel goed bezig. Maar wist je dat je elke dag eigenlijk twee stukken fruit moet eten om gezond te blijven? Het is natuurlijk wel niet het enige dat je moet eten om gezond te blijven. Want naast die 2 stukken fruit moet je ook nog 300 gram groenten eten.&nbsp;</p><p>Het zal je misschien niet veel zeggen die 300 gram, maar misschien kan je het beter vergelijken als we zeggen dat dit evenveel is als een verpakking ‘prince-koeken.’&nbsp;</p><p><br></p><p>Voor een vieruurtje kan je dus al snel een koek nemen. Maar als je al wat fruit neemt, ben je dichter bij jouw minimum van fruit. Je kan met groenten en fruit veel lekkere gerechten maken. Dit kan dan voor een vieruurtje of zelfs voor het avondeten zijn.&nbsp;</p><p><br></p><p>Wanneer je een lekker vieruurtje maakt, kan je best ook rekening houden met de seizoensgroenten. Zo zal je bijvoorbeeld in de zomer meer aardbeien, meloenen en frambozen vinden dan in de winter.&nbsp;</p>",
+          "text2": "<p>Daarom is het dan ook heel belangrijk dat je een beetje kijkt naar de seizoensgroentenkalender. Dit doen we omdat we ook wat op onze ecologische voetafdruk moeten letten, door bijvoorbeeld seizoensgroenten te kopen. Onze ecologische voetafdruk is iets dat zegt hoe hard we het milieu vervuilen. Natuurlijk moet onze afdruk dan zo klein mogelijk zijn om goed te zijn. Door seizoensgroenten te kopen die lokaal geteeld worden kunnen we ook wat brandstoffen en andere vervuilende gassen uitsparen. Deze richten vaak veel schade aan aan onze gezondheid. Omdat we dit zo goed mogelijk proberen te vermijden moeten we dus veel groenten en fruit eten. Zo zullen we genoeg vitaminen binnen krijgen en een sterk immuunsysteem kunnen opbouwen. Dat helpt ons lichaam om zich te beschermen tegen alle slechte stoffen en ziektes rondom ons. We zullen wanneer dit heel sterk is dan ook minder snel ziek worden.&nbsp;</p><p><br></p><p>Seizoensgroenten zijn niet enkel belangrijk voor het milieu maar ook de smaak ervan is veel beter. We kunnen vele toffe gerechten maken met groenten en fruit maar voor een vieruurtje verwachten we natuurlijk geen groots recept met toeters en bellen eraan. Maar iets kleins dat we al eens snel kunnen opeten. In de zomer kan je al eens een lekkere fruitsalade maken met kiwi, meloen, banaan, aardbeien,... Ook kan je al eens een fruitsaté maken met de verschillende soorten fruit of je kan er zelfs groenten tussen mengen om wat variatie erin te brengen. Het is natuurlijk altijd fijn moest je eens regelmatig afwisselen van vieruurtje of van fruitsoort, want zo leer je vele nieuwe soorten groenten en fruit kennen. Met al dat nieuwe fruit kan je ook eens iets anders proberen. Zo kan je bijvoorbeeld leuke tekeningen maken met je groenten. Zoals een palmboom of een boot. Dat doet je dan toch nog wat meer wegdromen over de zomer en zijn vele lekkere soorten groenten en fruit.</p>"
         },
         {
           "_tags": [
@@ -582,40 +790,6 @@
             "bgColor": "#fff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Naar boven</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
@@ -812,7 +986,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Verhaal Allerheiligen\r</p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.\r</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wou van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet mogen we niet zeuren.\r</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen. Want de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak, om hem het slechte nieuws te vertellen.\r</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. ‘’ WHRAAA!’’ ‘ Hier hebben we onze koning’ en de draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. ‘’ Waar heb ik jullie bezoek aan te danken?’’ Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei: ‘ de schapen zijn op.’ ‘ dan zal ik meneer de raadsman moeten opeten,’ zei de draak. De raadsman keek bang de koning aan. ‘ Grapje,’ zei de draak. ‘ Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.’’\r</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. ‘ ik kan u van alles geven meneer de draak. ‘ ‘ Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?’ ‘’ Nee, koninkje.. een lekker vrouwtje.’’ ‘’ Anders zwaait er wat!’’\r</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. En dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. ‘Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.’ De koning en zijn volk vonden het allemaal vreselijk. ‘ Stop!’ klonk het uit de verte. ‘ Lieve papa, je bent mij nog vergeten. ’zei de dochter van de koning. De koning was geschrokken maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.\r</p><p>&nbsp;\r</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de  draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: ‘ degene die de draak kan verslaan mag trouwen met de prinses.’ Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: ‘’ Majesteit, ik kan de draak verslaan.’’ zei Joris. De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans. ‘’\r</p><p>Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. ‘’ Wat kom jij doen?’’, vroeg de draak. ‘Ik ben Joris, de heerser van water en vuur.’ ‘’HAHAHA’’, antwoordde de draak. ‘’ Goed geprobeerd.’’ ‘ ik heb net de hele oceaan in brand gezet’, zei Joris. ‘’ HAHAHA, dat kan echt niet’’, zei de draak. ‘ Jawel, kijk maar eens goed.’, zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.\r</p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak:  ‘ beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.’\r</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel u dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.\r</p><p><br></p>"
+          "text": "<p>Verhaal Allerheiligen\n</p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.\n</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wou van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet mogen we niet zeuren.\n</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen. Want de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak, om hem het slechte nieuws te vertellen.\n</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. ‘’ WHRAAA!’’ ‘ Hier hebben we onze koning’ en de draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. ‘’ Waar heb ik jullie bezoek aan te danken?’’ Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei: ‘ de schapen zijn op.’ ‘ dan zal ik meneer de raadsman moeten opeten,’ zei de draak. De raadsman keek bang de koning aan. ‘ Grapje,’ zei de draak. ‘ Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.’’\n</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. ‘ ik kan u van alles geven meneer de draak. ‘ ‘ Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?’ ‘’ Nee, koninkje.. een lekker vrouwtje.’’ ‘’ Anders zwaait er wat!’’\n</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. En dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. ‘Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.’ De koning en zijn volk vonden het allemaal vreselijk. ‘ Stop!’ klonk het uit de verte. ‘ Lieve papa, je bent mij nog vergeten. ’zei de dochter van de koning. De koning was geschrokken maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.\n</p><p>&nbsp;\n</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de  draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: ‘ degene die de draak kan verslaan mag trouwen met de prinses.’ Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: ‘’ Majesteit, ik kan de draak verslaan.’’ zei Joris. De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans. ‘’\n</p><p>Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. ‘’ Wat kom jij doen?’’, vroeg de draak. ‘Ik ben Joris, de heerser van water en vuur.’ ‘’HAHAHA’’, antwoordde de draak. ‘’ Goed geprobeerd.’’ ‘ ik heb net de hele oceaan in brand gezet’, zei Joris. ‘’ HAHAHA, dat kan echt niet’’, zei de draak. ‘ Jawel, kijk maar eens goed.’, zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.\n</p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak:  ‘ beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.’\n</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel u dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.\n</p><p><br></p>"
         },
         {
           "_styles": {
