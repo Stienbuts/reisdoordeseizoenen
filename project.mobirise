@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "winter",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 94,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -85,6 +85,19 @@
           },
           "_anchor": "slider3-a",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"home\" data-toolbar=\"-mbrBtnMove\">Home</a> "
         }
       ]
     },
@@ -184,7 +197,7 @@
             }
           },
           "title2": "Techniek",
-          "subtitle2": "Het robot wonder",
+          "subtitle2": "Het robotwonder",
           "caption2": "Lees het aangrijpende verhaal over Gert-Jan.<br>Ga daarna zelf aan de slag!",
           "button2": "<a data-app-btn=\"true\" href=\"Zomer#msg-box8-1e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil een robothand maken!&nbsp;</a>",
           "media3": {
@@ -285,7 +298,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Lesdoelen</b></p><p>De leerlingen integreren rust in de klas en proberen hiermee om te gaan door dit te combineren met hun oefeningen.</p><p>De leerlingen interpreteren instructies van de leerkracht over hoe ze hun lichaam kunnen gebruiken op een juiste manier.</p><p><br></p>"
         },
@@ -298,7 +311,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p><b>Leerplandoelen</b></p><p><br></p><p>Mzlb1 Het eigen lichaam aanvoelen en rekening houden met zijn lichaamsgrenzen en -verhoudingen</p><p>●\t4-5 Een beeld opbouwen van het eigen lichaam, van de onderlinge verhouding van de lichaamsdelen en de reikmogelijkheden ervan.</p><p>●\t4 - 5 Actief zoeken naar mogelijkheden om het lichaam in en door allerlei ruimtes te wringen - de grootte van het lichaam en van bepaalde lichaamsdelen vergelijken met die van anderen</p><p>●\t5 - 12 Beseffen hoe het eigen lichaam in elkaar zit en functioneert  - een correct lichaamsbeeld en lichaamsbesef ontwikkelen</p><p><br></p><p>MZlb2 Een goede lichaamshouding aannemen</p><p>●\t2.5 - 7 Exploreren van verschillende lichaamshoudingen - nabootsen van elementaire houdingen zoals zit, handen- of knieënsteun, buiklig aannemen of wijzigen - houdingswijzigingen opmerken en aannemen</p><p><br></p>",
           "text2": "<p><b>Eindtermen</b>&nbsp;</p><p><br></p><p>De  leerlingen…</p><p>●\t1.3 kennen de gevaren en risico’s van bewegingssituaties en kunnen deze inschatten en signaliseren.</p><p>●\t1.8* zijn bereid een sfeer van rust te creëren.</p><p>●\t1.1 kunnen de motorische basisbewegingen op een voldoend flexibele en verfijnde wijze aanwenden in gevarieerde en complexe bewegingssituaties.</p><p>●\t1.28* kunnen geconcentreerd bezig zijn met een bewegingstaak</p><p>●\t1.31 zijn in staat gekende oefen- en spelvormen zelfstandig op te starten en in gang te houden</p><p><br></p>"
@@ -343,7 +356,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Boom in de wind",
+          "title1": "De boom in de wind",
           "subtitle1": "Beweeeg van links naar rechts.",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -391,8 +404,8 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Mug",
-          "subtitle4": "Strek je benen en buig naar voren terwijl je je armen op je rug legt",
+          "title4": "&nbsp;De mug",
+          "subtitle4": "Strek je benen en buig naar voren terwijl je je armen op je rug legt.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -566,7 +579,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Het robot wonder",
+          "title": "Het robotwonder",
           "text": "<b>KORTE</b> <b>INLEIDING: TO DO</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -579,7 +592,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Lesdoelen: TO DO</b></p>"
         },
@@ -592,7 +605,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p><b>Leerplandoelen</b></p><p><br></p><p>OWte5: Vaststellen en uitdrukken hoe wetenschap, techniek en de samenleving elkaar beïnvloeden</p><p>●\tNieuwsgierig zijn naar onderzoek en actuele uitvindingen – nadenken over het impact van nieuwe wetenschappelijke en technische ontwikkelingen op het dagelijks leven.</p><p>●\tWaardering uiten voor uitvindingen, wetenschappelijk onderzoek en de positieve effecten ervan – illustreren hoe wetenschap, techniek en de samenleving elkaar beïnvloeden</p><p>OWte8: De relatieve waarde van techniek ervaren, vaststellen en hierover in interactie gaan</p><p>●\tErvaren en vaststellen in welke mate we afhankelijk zijn van techniek en welke de beperkingen ervan zijn en hierover in interactie gaan</p><p>OWte9: Vaststellen en uitdrukken dat technische systemen nuttig, duurzaam, gevaarlijk en/of schadelijk kunnen zijn voor zichzelf, anderen, natuur of milieu</p><p>●\tAan de hand van voorbeelden uit verschillende toepassingsgebieden van techniek illustreren dat technische systemen nuttig, gevaarlijk en/of schadelijk kunnen zijn voor zichzelf, voor anderen of voor natuur en milieu</p><p><br></p>",
           "text2": "<p><b>Eindtermen</b></p><p><br></p><p>2.5 De leerlingen kunnen illustreren dat technische systemen evolueren en verbeteren.</p><p>2.13 De leerlingen kunnen een eenvoudige werktekening of handleiding stap voor stap uitvoeren</p><p>2.16 De leerlingen zijn bereid hygiënisch, nauwkeurig, veilig en zorgzaam te werken.</p><p>2.17 De leerlingen kunnen illustreren dat techniek en samenleving elkaar beïnvloeden.</p><p>2.18 De leerlingen kunnen aan de hand van voorbeelden uit verschillende toepassingsgebieden van techniek illustreren dat technische systemen nuttig, gevaarlijk en/of schadelijk kunnen zijn voor henzelf, voor anderen of voor natuur en milieu.</p><p><br></p>"
@@ -608,7 +621,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Het verhaal van Gert-Jan</b></p><p><br></p><p>Een vrachtwagen raakt in een harde klap een man. Mensen stappen uit hun auto’s om te kijken wat er gebeurd is en de vrachtwagenchauffeur belt in paniek de hulpdiensten. Zij komen zo snel ze kunnen, terwijl de man bewusteloos op de grond ligt. De verplegers van de ambulance luisteren of hij nog ademt en zoeken snel naar zijn portefeuille om te kijken of ze zijn identiteitskaart vinden zodat ze kunnen zien wie de man is. Even later zijn ze er achter gekomen dat de man Gert-Jan heet en hij 28 jaar oud is. Zo snel ze kunnen rijden ze naar het ziekenhuis.</p><p>Wanneer Gert-Jan enkele uren later wakker wordt in een ziekenhuisbed, schrikt hij heel erg. Hij kan zijn benen niet meer bewegen! Hij is bijna volledig verlamd en kan niet meer wandelen. Hij is heel erg geschrokken en geeft de moed bijna op, maar de dokters beloven hem dat ze hun uiterste best zullen doen om hem te helpen.</p><p><br></p><p>7 jaar lang leefde Gert-Jan in een rolstoel. Hij probeerde heel vaak te wandelen, maar het lukte nooit. Hij kon niet meer rechtstaan op zijn benen zonder dat hij zich aan iets moest vasthouden… maar vandaag zal daar verandering in komen! De dokters komen hem goed nieuws brengen. “Dag Gert-Jan, we hebben geweldig nieuws voor jou! We hebben robotbenen voor jou ontworpen waarmee je terug zal kunnen wandelen!”, vertellen ze. Hij krijgt tranen in zijn ogen en kan het niet geloven. Zo snel hij kan probeert hij samen met de dokters de benen aan te doen en recht te komen uit zijn rolstoel. Het lukt hem en stap voor stap komt hij vooruit. Het is heel vermoeiend, maar hij genoot er zo van! Wanneer hij terug in zijn rolstoel zit om even uit te rusten, neemt hij zo snel hij kan zijn gsm en begint al zijn vrienden en familie op te bellen om hen het wonderbaarlijke nieuws te vertellen. Iedereen is super enthousiast. Dit moet gevierd worden!</p><p><br></p><p>Een paar weken later, op een prachtige zomerdag, is het zover. Gert-Jans feest is eindelijk daar. Hij staat in het middelpunt van de belangstelling, wordt echt in de bloemetjes gezet en loopt een stukje terwijl iedereen er rond staat en voor hem applaudisseert. Na de 7 jaren van revalidatie van zijn ongeluk, is hij eindelijk terug echt gelukkig!</p><p><br></p><p>Doordat we technologie hebben kunnen we heel veel, zoals mensen opnieuw laten lopen, maar ook communiceren van op een afstand en zoveel andere dingen. Knap he? Denk eens na hoeveel technologische dingen jij thuis hebt. Sta erbij stil hoe een grote invloed technologie heeft op ons leven. Bedenk een manier waarop we de technologie die ons leven veel gemakkelijker maakt, kunnen vieren!</p><p><br></p>"
+          "text": "<p><b>Wat Gert-Jan overkwam</b></p><p><br></p><p>Een vrachtwagen raakt in een harde klap een man. Mensen stappen uit hun auto’s om te kijken wat er gebeurd is. De vrachtwagenchauffeur belt in paniek de hulpdiensten. Zij komen zo snel ze kunnen, terwijl de man bewusteloos op de grond ligt. De verplegers van de ambulance luisteren of hij nog ademt en zoeken snel naar zijn portefeuille om te kijken of ze zijn identiteitskaart vinden zodat ze kunnen zien wie de man is. Even later zijn ze er achter gekomen dat de man Gert-Jan heet en hij 28 jaar oud is. Zo snel ze kunnen rijden ze naar het ziekenhuis.</p><p>Wanneer Gert-Jan enkele uren later wakker wordt in een ziekenhuisbed, schrikt hij heel erg. Hij kan zijn benen niet meer bewegen! Hij is bijna volledig verlamd en kan niet meer wandelen. Hij is heel erg geschrokken en geeft de moed bijna op, maar de dokters beloven hem dat ze hun uiterste best zullen doen om hem te helpen.</p><p><br></p><p>7 jaar lang leefde Gert-Jan in een rolstoel. Hij probeerde heel vaak te wandelen, maar het lukte nooit. Hij kon niet meer rechtstaan op zijn benen zonder dat hij zich aan iets moest vasthouden… Maar vandaag zal daar verandering in komen! De dokters brengen hem goed nieuws. “Dag Gert-Jan, we hebben geweldig nieuws voor jou! We hebben robotbenen voor jou ontworpen waarmee je terug zal kunnen wandelen!”, vertellen ze. Hij krijgt tranen in zijn ogen en kan het niet geloven. Zo snel hij kan probeert hij samen met de dokters de benen aan te doen en recht te komen uit zijn rolstoel. Het lukt hem en stap voor stap komt hij vooruit. Het is heel vermoeiend, maar hij genoot er zo van! Wanneer hij terug in zijn rolstoel zit om even uit te rusten, neemt hij zo snel hij kan zijn gsm en begint al zijn vrienden en familie op te bellen om hen het wonderbaarlijke nieuws te vertellen. Iedereen is super enthousiast. Dit moet gevierd worden!</p><p><br></p><p>Een paar weken later, op een prachtige zomerdag, is het zover. Gert-Jans feest is eindelijk daar. Hij staat in het middelpunt van de belangstelling, wordt echt in de bloemetjes gezet en loopt een stukje terwijl iedereen er rond staat en voor hem applaudisseert. Na de 7 jaren van revalidatie van zijn ongeluk, is hij eindelijk terug echt gelukkig!</p><p><br></p><p><br></p><p><br></p><p>Doordat we technologie hebben kunnen we heel veel, zoals mensen opnieuw laten lopen, maar ook communiceren van op een afstand en zoveel andere dingen. Knap he? Denk eens na hoeveel technologische apparaten jij thuis hebt. Sta erbij stil hoe een grote invloed technologie heeft op ons leven. Bedenk een manier waarop we de technologie die ons leven veel gemakkelijker maakt, kunnen vieren!</p><p><br></p>"
         },
         {
           "_tags": [
@@ -668,7 +681,7 @@
             }
           },
           "title": "Zelf een robothand maken",
-          "text": "Benodigdheden:<br>-\tEen stuk karton dat groter is dan je<br>            hand<br>-\tEen potlood<br>-\tEen schaar<br>-\t5 rietjes<br>-\tLijm<br>-\t5 touwtjes<br>-\tEventueel een perforator<br><br><br>",
+          "text": "Benodigdheden:<br>-\tEen stuk karton dat groter is dan je&nbsp;hand<br>-\tEen potlood<br>-\tEen schaar<br>-\t5 rietjes<br>-\tLijm<br>-\t5 touwtjes<br>-\tEventueel een perforator<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -775,7 +788,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Chocolade, koeken, wafels, dracula tandjes, taartjes,... Het is allemaal heel lekker maar niet zo gezond. Dit is jammer want we moeten wel gezond eten en dit begint al bij onze vieruurtjes die dat ook moeten zijn.</i></span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het is namelijk heel belangrijk dat je tussen je maaltijden die je in de ochtend, middag en avond eet, ook wel eens een gezonde snack neemt. Wanneer je thuiskomt van school heb je vaak wel honger, je moet dan geen snoepje nemen om deze honger te laten verdwijnen. Een gezonde snack is snel genomen en ook heel lekker.&nbsp;</span><br></p><p><br></p><p>Als je al eens een stuk fruit eet, ben je al heel goed bezig. Maar wist je dat je elke dag eigenlijk twee stukken fruit moet eten om gezond te blijven? Het is natuurlijk wel niet het enige dat je moet eten om gezond te blijven. Want naast die 2 stukken fruit moet je ook nog 300 gram groenten eten.&nbsp;</p><p>Het zal je misschien niet veel zeggen die 300 gram, maar misschien kan je het beter vergelijken als we zeggen dat dit evenveel is als een verpakking ‘prince-koeken.’&nbsp;</p><p><br></p><p>Voor een vieruurtje kan je dus al snel een koek nemen. Maar als je al wat fruit neemt, ben je dichter bij jouw minimum van fruit. Je kan met groenten en fruit veel lekkere gerechten maken. Dit kan dan voor een vieruurtje of zelfs voor het avondeten zijn.&nbsp;</p><p><br></p><p>Wanneer je een lekker vieruurtje maakt, kan je best ook rekening houden met de seizoensgroenten. Zo zal je bijvoorbeeld in de zomer meer aardbeien, meloenen en frambozen vinden dan in de winter.&nbsp;</p>",
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Chocolade, koeken, wafels, draculatandjes, taartjes,... Het is allemaal heel lekker maar niet zo gezond. Dit is jammer want we moeten wel gezond eten. Het begint al bij onze vieruurtjes die dat ook moeten zijn.</i></span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het is namelijk heel belangrijk dat je tussen je maaltijden die je in de ochtend, middag en avond eet, ook wel eens een gezonde snack neemt. Wanneer je thuiskomt van school heb je vaak wel honger, je moet dan geen snoepje nemen om deze honger te laten verdwijnen. Een gezonde snack is snel genomen en ook heel lekker.&nbsp;</span><br></p><p><br></p><p>Als je al eens een stuk fruit eet, ben je heel goed bezig. Maar wist je dat je elke dag eigenlijk twee stukken fruit moet eten om gezond te blijven? Het is natuurlijk wel niet het enige dat je moet eten om gezond te blijven. Want naast die 2 stukken fruit moet je ook nog 300 gram groenten eten.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zal je misschien niet veel zeggen die 300 gram, maar misschien kan je het beter vergelijken als we zeggen dat dit evenveel is als een verpakking ‘prince-koeken.’&nbsp;</span></p><p><br></p><p>Voor een vieruurtje kan je dus al snel een koek nemen. Maar als je al wat fruit neemt, ben je dichter bij jouw minimum van fruit. Je kan met groenten en fruit veel lekkere gerechten maken. Dit kan dan voor een vieruurtje of zelfs voor het avondeten zijn.&nbsp;</p><p><br></p><p>Wanneer je een lekker vieruurtje maakt, kan je best ook rekening houden met de seizoensgroenten. Zo zal je bijvoorbeeld in de zomer meer aardbeien, meloenen en frambozen vinden dan in de winter.&nbsp;</p>",
           "text2": "<p>Daarom is het dan ook heel belangrijk dat je een beetje kijkt naar de seizoensgroentenkalender. Dit doen we omdat we ook wat op onze ecologische voetafdruk moeten letten, door bijvoorbeeld seizoensgroenten te kopen. Onze ecologische voetafdruk is iets dat zegt hoe hard we het milieu vervuilen. Natuurlijk moet onze afdruk dan zo klein mogelijk zijn om goed te zijn. Door seizoensgroenten te kopen die lokaal geteeld worden kunnen we ook wat brandstoffen en andere vervuilende gassen uitsparen. Deze richten vaak veel schade aan aan onze gezondheid. Omdat we dit zo goed mogelijk proberen te vermijden moeten we dus veel groenten en fruit eten. Zo zullen we genoeg vitaminen binnen krijgen en een sterk immuunsysteem kunnen opbouwen. Dat helpt ons lichaam om zich te beschermen tegen alle slechte stoffen en ziektes rondom ons. We zullen wanneer dit heel sterk is dan ook minder snel ziek worden.&nbsp;</p><p><br></p><p>Seizoensgroenten zijn niet enkel belangrijk voor het milieu maar ook de smaak ervan is veel beter. We kunnen vele toffe gerechten maken met groenten en fruit maar voor een vieruurtje verwachten we natuurlijk geen groots recept met toeters en bellen eraan. Maar iets kleins dat we al eens snel kunnen opeten. In de zomer kan je al eens een lekkere fruitsalade maken met kiwi, meloen, banaan, aardbeien,... Ook kan je al eens een fruitsaté maken met de verschillende soorten fruit of je kan er zelfs groenten tussen mengen om wat variatie erin te brengen. Het is natuurlijk altijd fijn moest je eens regelmatig afwisselen van vieruurtje of van fruitsoort, want zo leer je vele nieuwe soorten groenten en fruit kennen. Met al dat nieuwe fruit kan je ook eens iets anders proberen. Zo kan je bijvoorbeeld leuke tekeningen maken met je groenten. Zoals een palmboom of een boot. Dat doet je dan toch nog wat meer wegdromen over de zomer en zijn vele lekkere soorten groenten en fruit.</p>"
         },
         {
@@ -830,7 +843,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
           "title": "Herfst",
@@ -887,7 +900,7 @@
           },
           "title2": "Godsdienst",
           "subtitle2": "Joris, de Heilige die de draak versloeg",
-          "caption2": "Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas",
+          "caption2": "Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Interessant!</a>",
           "media3": {
             "image": {
@@ -897,10 +910,10 @@
               "active": true
             }
           },
-          "title3": "Web Fonts",
+          "title3": "op vierdaagse",
           "subtitle3": "Pam Appelman",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Het vierde leerjaar gaat op vierdaagse naar de Ardennen!",
+          "button3": "<a data-app-btn=\"true\" href=\"herfst#msg-box8-25\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -975,7 +988,7 @@
             "showButton": false
           },
           "title": "Wereldoorlog 1",
-          "text": "<b>Een verwerkingsopdracht over allerlei feiten over de Groote Oorlog</b>",
+          "text": "<b>Een verwerkingsopdracht van allerlei feiten over de Groote Oorlog</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -987,9 +1000,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p><b>Lesdoelen: </b></p><p>De leerlingen hebben inzicht in de materialen die met de oorlog zijn gebruikt.</p><p>De leerlingen linken de feestdagen met momenten van de oorlog door ze bij elkaar te hangen.</p><p>De leerlingen begrijpen de begrippen die met de oorlog te maken heeft.</p><p><br></p>"
+          "text": "<p><b>Lesdoelen: </b></p><p>De leerlingen hebben inzicht in de materialen die met de oorlog zijn gebruikt.</p><p>De leerlingen linken de feestdagen met momenten van de oorlog door ze bij elkaar te hangen.</p><p>De leerlingen leggen de begrippen uit die met de oorlog te maken heeft.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1000,7 +1013,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p><b>leerplandoelen:</b></p><p>2.5 - 4   Begrijpen dat 'gisteren' voorbij is en dat 'morgen' nog moet komen</p><p>4 - 7  \tErvaren en vaststellen hoe bepaalde activiteiten verbonden zijn met specifieke dagen</p><p><br></p>",
           "text2": "<p><b>eindtermen</b>:</p><p>De leerlingen…&nbsp;</p><p>3.9* tonen belangstellingen voor het verleden, heden en de toekomst, hier en elders</p><p>3.10* beseffen dat er een onderscheid is tussen een mening over een historisch feit en het feit zelf</p><p><br></p>"
@@ -1055,7 +1068,7 @@
             }
           },
           "title": "Te scannen QR-code",
-          "text": "Wanneer u op deze link klikt of de QR-code hiernaast even scant, zal u terechtkomen op de site van learningapps. De learningapp die klaarstaat gaat over de eerste wereldoorlog. De kinderen zullen hierin meer te weten komen over wie er tegen ons land vocht, wat ze hiervoor gebruikten en nog enkele andere begrippen die sindsdien gebruikt worden.",
+          "text": "Wanneer u op deze link klikt of de QR-code hiernaast even scant, zal u terechtkomen op de site van learningapps. De learningapp die klaarstaat gaat over de eerste wereldoorlog. De kinderen zullen hierin meer te weten komen over wie er tegen ons land vocht, wat ze hiervoor gebruikten en nog enkele andere begrippen die sindsdien gebruikt worden. Dit kan klassikaal of in groepjes, als er enkele tablets &nbsp;of smartphones beschikbaar zijn.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://learningapps.org/5923441 \" data-toolbar=\"-mbrBtnMove\">Naar de learning app</a>"
         },
         {
@@ -1107,23 +1120,22 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p><b>Lesdoelen</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- De leerlingen luisteren aandachtig naar het verhaal van Joris en de Draak.</span></p><p>-\tDe leerlingen verwerken de tekst aan de hand van bijkomende aanvulvragen.</p><p>-\tDe leerlingen leren hun gevoelens uiten in verband met verliezen van familieleden.</p><p>-\tDe leerlingen begrijpen het verschil tussen Allerheiligen en Allerzielen.</p><p><br></p><p><br></p>"
+          "text": "<p><b>Lesdoelen</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- De leerlingen luisteren aandachtig naar het verhaal van Joris en de Draak.</span></p><p>-\tDe leerlingen verwerken de tekst aan de hand van bijkomende aanvulvragen.</p><p>-\tDe leerlingen leren hun gevoelens uiten in verband met verliezen van familieleden.</p><p>-\tDe leerlingen begrijpen het verschil tussen Allerheiligen en Allerzielen.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-22",
+          "_name": "content1",
+          "_anchor": "content1-2k",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text1": "<p><b>Leerplandoelen</b></p><p><br></p><p>RKlg2: Komen tot communicatie op levensbeschouwelijk, religieus en/of godsdienstig vlak, verbaal of niet-verbaal.</p><p>●\tVerkennen en aanknopingspunten zoeken in de eigen leef- en belevingswereld: contact maken met, stilstaan bij, voelen, ruiken, horen, aanvoelen, meevoelen, zien, luisteren, lezenn in zich opnemen, herkennen, bewust worden, bespreken met elkaar</p><p>RKvm2: Erop vertrouwen dat er over schijnbaar dode punten heen nieuwe kansen liggen en een nieuw begin maken. Ontdekken wat ‘verrijzenis’ kan betekenen in het leven van mensen en mogelijk in het eigen leven.</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; verdriet als een deel van het (en hun) leven ervaren &gt; ontdekken dat er verdriet is wanneer zij afscheid moeten nemen (soms ook een kort afscheid) van mensen met wie ze erg verbonden zijn, of wanneer zij iemand of iets verliezen (een mens, speelgoed, een huisdier).</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; ontdekken hoe verbondenheid, nabijheid en luisterbereidheid helpen bij verdriet</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; situaties verkennen waarin christenen door handelingen, woorden, symbolen en rituelen hun geloof in Gods nabijheid uitdrukken: uitvaart, ziekenzalving, Allerheiligen, Goede Vrijdag en Pasen, bedevaarten …</p><p>RKgs3: Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het leven van mensen op het ritme van het liturgisch jaar en deze mee beleven</p><p>●\tAllerheiligen en Allerzielen &gt; eerste cyclus: de betekenis van enkele religieuze feesten ontdekken</p><p>●\tAllerheiligen en Allerzielen &gt; tweede cyclus: Allerheiligen en Allerzielen kennen als dagen van verbondenheid met heiligen en met mensen die gestorven zijn</p><p>●\tAllerheiligen en Allerzielen &gt; het onderscheid tussen Allerheiligen en Allerzielen maken</p><p><br></p><p><br></p>",
-          "text2": "<p><b>Eindtermen</b>: TO DO</p>"
+          "text": "<p><b>Leerplandoelen</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">RKlg2: Komen tot communicatie op levensbeschouwelijk, religieus en/of godsdienstig vlak, verbaal of niet-verbaal.</span><br></p><p>●\tVerkennen en aanknopingspunten zoeken in de eigen leef- en belevingswereld: contact maken met, stilstaan bij, voelen, ruiken, horen, aanvoelen, meevoelen, zien, luisteren, lezenn in zich opnemen, herkennen, bewust worden, bespreken met elkaar</p><p>RKvm2: Erop vertrouwen dat er over schijnbaar dode punten heen nieuwe kansen liggen en een nieuw begin maken. Ontdekken wat ‘verrijzenis’ kan betekenen in het leven van mensen en mogelijk in het eigen leven.</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; verdriet als een deel van het (en hun) leven ervaren &gt; ontdekken dat er verdriet is wanneer zij afscheid moeten nemen (soms ook een kort afscheid) van mensen met wie ze erg verbonden zijn, of wanneer zij iemand of iets verliezen (een mens, speelgoed, een huisdier).</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; ontdekken hoe verbondenheid, nabijheid en luisterbereidheid helpen bij verdriet</p><p>●\tTweede cyclus: verbondenheid in verdriet &gt; situaties verkennen waarin christenen door handelingen, woorden, symbolen en rituelen hun geloof in Gods nabijheid uitdrukken: uitvaart, ziekenzalving, Allerheiligen, Goede Vrijdag en Pasen, bedevaarten …</p><p>RKgs3: Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het leven van mensen op het ritme van het liturgisch jaar en deze mee beleven</p><p>●\tAllerheiligen en Allerzielen &gt; eerste cyclus: de betekenis van enkele religieuze feesten ontdekken</p><p>●\tAllerheiligen en Allerzielen &gt; tweede cyclus: Allerheiligen en Allerzielen kennen als dagen van verbondenheid met heiligen en met mensen die gestorven zijn</p><p>●\tAllerheiligen en Allerzielen &gt; het onderscheid tussen Allerheiligen en Allerzielen maken</p><p><br></p><p><b>Eindtermen</b></p><p>Niet van toepassing voor Godsdienst</p>"
         },
         {
           "_tags": [
@@ -1136,7 +1148,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Joris en de draak</b></p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wou van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet mogen we niet zeuren.</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen. Want de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak, om hem het slechte nieuws te vertellen.</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. ‘’ WHRAAA!’’ ‘ Hier hebben we onze koning’ en de draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. ‘’ Waar heb ik jullie bezoek aan te danken?’’ Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei: ‘ de schapen zijn op.’ ‘ dan zal ik meneer de raadsman moeten opeten,’ zei de draak. De raadsman keek bang de koning aan. ‘ Grapje,’ zei de draak. ‘ Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.’’</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. ‘ ik kan u van alles geven meneer de draak. ‘ ‘ Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?’ ‘’ Nee, koninkje.. een lekker vrouwtje.’’ ‘’ Anders zwaait er wat!’’</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. En dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. ‘Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.’ De koning en zijn volk vonden het allemaal vreselijk. ‘ Stop!’ klonk het uit de verte. ‘ Lieve papa, je bent mij nog vergeten. ’zei de dochter van de koning. De koning was geschrokken maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.</p><p>&nbsp;</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: ‘ degene die de draak kan verslaan mag trouwen met de prinses.’ Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: ‘’ Majesteit, ik kan de draak verslaan.’’ zei Joris. De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans. ‘’</p><p>Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. ‘’ Wat kom jij doen?’’, vroeg de draak. ‘Ik ben Joris, de heerser van water en vuur.’ ‘’HAHAHA’’, antwoordde de draak. ‘’ Goed geprobeerd.’’ ‘ ik heb net de hele oceaan in brand gezet’, zei Joris. ‘’ HAHAHA, dat kan echt niet’’, zei de draak. ‘ Jawel, kijk maar eens goed.’, zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.</p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak: ‘ beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.’</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel u dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.</p><p><br></p>"
+          "text": "<p><b>Joris en de draak</b></p><p>Er was eens een klein koninkrijk dat anders was dan alle andere koninkrijken. Dit koninkrijk had een draak, een monster dat vuur kon spuwen. De draak leefde in een groot moeras. In dit moeras bewaarde de draak zijn gouden drakeneieren.</p><p>De draak deed niemand kwaad, zolang hij elke dag maar genoeg eten kreeg van de koning. Maar jammer genoeg was de draak niet met al het eten tevreden. Hij wilde van de koning elke dag twee schapen om op te eten. Jarenlang gaf de koning de draak twee schapen. Zolang de draak schapen eet, mogen we niet zeuren.</p><p>Maar op een dag kwam de raadsman bij de koning om hem te vertellen dat alle schapen op waren. De koning wist niet wat hij moest doen, want hij wist dat de draak woest zou worden als hij zijn twee schapen niet krijgt. Na een tijdje ging de koning samen met zijn raadsman een bezoekje brengen aan de draak om hem het slechte nieuws te vertellen.</p><p>Wanneer de dappere koning en de doodsbange raadsman bij het moeras aankwamen hoorden ze het angstaanjagende geluid van de draak. \"WHRAAA! Hier hebben we onze koning!\" De draak kwam steeds dichterbij. De koning en de raadsman waren zo bang dat ze steeds een stapje achteruit zetten. \"Waar heb ik jullie bezoek aan te danken?\" Nou, we wilden je even iets komen vertellen..; zei de raadsman heel voorzichtig. De koning zuchtte en zei bang: \"de schapen zijn op.\" \"dan zal ik meneer de raadsman moeten opeten,\" zei de draak. De raadsman keek bang de koning aan. \"Grapje!\" zei de draak. \"Zo’n oude versleten, taaie man lust ik niet. Geef mij maar een jonge vrouw.\"</p><p>De koning en de raadsman wisten niet wat ze moesten zeggen. \"Ik kan u van alles geven, meneer de draak. Vis of een lekker stukje vlees. Maar toch geen jonge vrouw?\" \"Nee, koninkje, ik wil geen vis of vlees. Ik wil een lekker vrouwtje. Anders zwaait er wat!\"</p><p>Duizenden mensen waren geschrokken van het verhaal dat de koning hen vertelde. Wanneer de koning terug was in zijn paleis dacht hij diep na. Hij dacht na over wat de draak allemaal niet kon aanrichten als we niet doen wat hij zegt. Dus de koning besloot om een potje te maken met daarin alle namen van jonge vrouwen van over de hele wereld. Alle mensen stopten een voor een een briefje in het potje. \"Voortaan zal ik elke dag één briefje trekken. Het meisje wier naam ik voorlees zal de volgende ochtend geofferd worden.\" De koning en zijn volk vonden het allemaal vreselijk. \"Stop!\" klonk het uit de verte. \"Lieve papa, je bent mij nog vergeten\", zei de dochter van de koning. De koning was geschrokken, maar wist dat hij zijn dochter niet kon tegenspreken. De prinses stopte het papiertje met haar naam erop in het potje.</p><p>&nbsp;</p><p>Het koninkrijk was niet meer zoals vroeger. Heel het land was ongelukkig. Elke dag opnieuw werd er een jonge vrouw naar de draak gevoerd. De koning stuurde elke keer opnieuw sterke mannen naar de draak toe om de draak te verslaan... maar dit lukte hen nooit. Op een dag trok de koning een kaartje uit het potje met de naam van zijn dochter erop. Met tranen in zijn ogen vroeg hij aan zijn volk: \"degene die de draak kan verslaan mag trouwen met de prinses.\" Opeens stormde er een jongeman op een wit paard de binnenplaats van het koninkrijk op. Hij zei: \"Majesteit, mijn naam is Joris. Ik kan de draak verslaan.\" De koning geloofde niet wat de jongeman zei. Maar dit was zijn laatste kans.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Joris trok het bos in en kwam uiteindelijk terecht bij het grote moeras. De draak zag de jongeman en spuwde vuur uit zijn grote bek. \"Wat kom jij doen?\", vroeg de draak. \"Ik ben Joris, de heerser van water en vuur.\" \"HAHAHA\", antwoordde de draak. \"Goed geprobeerd.\" \"Ik heb net de hele oceaan in brand gezet\", zei Joris. \"HAHAHA, dat kan echt niet\", zei de draak. \"Jawel, kijk maar eens goed.\", zei Joris. De draak keek heel goed en op dat moment stak hij met zijn zwaard in het hart van de draak. De draak brulde nog voor de laatste keer. Dood.</span></p><p>Het hele land was gelukkig. Joris werd met een groot applaus van duizenden mensen ontvangen in het koninkrijk. De koning sprak: \"beste Joris, je hebt de draak verslagen. Je krijgt duizend-en-een dukaten en mag trouwen met mijn dochter.\"</p><p>Joris sprak en zei: ‘ Majesteit, ik hoef hiervoor niet te trouwen met uw dochter het spijt me. Mijn hart is voor degene van wie ik hou. Verdeel uw dukaten onder de bevolking van uw mooie land.’ Er klonk een luid gejuich. De koning en zijn volk zongen en danste de hele nacht. Joris verliet het koninkrijk en niemand heeft hem ooit nog gezien.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1149,7 +1161,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Een woordje uitleg bij het verhaal</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tijdens de herfstvakantie vieren we twee feesten. Allerheiligen en Allerzielen. Weet jij wat deze feestdagen nu eigenlijk betekenen?</span><br></p><p>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ik zal je het eens kort uitleggen…&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Allerheiligen vieren we op 1 november. Christenen herdenken op die dag alle heiligen die vroeger leefden. Daarom noemen we deze dag ‘ Allerheiligen’.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Joris was bijvoorbeeld een heilige. Hij deed iets goeds voor andere mensen. Maar niet zomaar iets goeds voor andere mensen. Om iemand heilig te kunnen noemen moet hij wonderen hebben verricht.</span></p><p><br></p><p>Op 2 november vieren we Allerzielen. Op deze dag denken we terug aan alle mensen, vrienden en familieleden die zijn gestorven. Wanneer er iemand dood gaat geloven de Christenen dat de dode mensen verder leven in de hemel. Daarom gaan veel mensen op deze dag samen met hun familie naar de kerk of brengen ze een bezoekje aan het kerkhof.</p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Een woordje uitleg bij het verhaal</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tijdens de herfstvakantie vieren we twee feesten. Allerheiligen en Allerzielen. Weet jij wat deze feestdagen nu eigenlijk betekenen?</span><br></p><p>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ik zal je het eens kort uitleggen…&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Allerheiligen vieren we op 1 november. Christenen herdenken op die dag alle heiligen die vroeger leefden. Daarom noemen we deze dag ‘ Allerheiligen’.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Joris was bijvoorbeeld een heilige. Daarom wordt hij nu Sint-Joris genoemd. Hij deed iets goeds voor andere mensen. Maar niet zomaar iets goeds voor andere mensen. Om iemand heilig te kunnen noemen moet hij wonderen hebben verricht.</span></p><p><br></p><p>Op 2 november vieren we Allerzielen. Op deze dag denken we terug aan alle mensen, vrienden en familieleden die zijn gestorven. Wanneer er iemand dood gaat geloven de Christenen dat de dode mensen verder leven in de hemel. Daarom gaan veel mensen op deze dag samen met hun familie naar de kerk of brengen ze een bezoekje aan het kerkhof.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1162,7 +1174,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Verwerking</b></p><p>Joris was een heilige, wie uit het rijtje is nog een heilige?</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">-\tDe kerstman</span><br></p><p>-\tSint- Nikolaas</p><p>-\tDe paashaas</p><p><br></p><p><br></p><p>Bij Allerzielen denk ik aan …………………………..</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Toen ik voor de laatste keer iemand verloor, voelde ik mij …………… .</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Op 2 november ga ik altijd ……………………… .&nbsp;</span><br></p><p><br></p>"
+          "text": "<p><b>Verwerking</b></p><p>Joris was een heilige, wie uit het rijtje is nog een heilige?</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">-\tDe kerstman</span><br></p><p>-\tSint- Nikolaas</p><p>-\tDe paashaas</p><p><br></p><p><br></p><p>Bij Allerzielen denk ik aan_________________________________________________________________________</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Toen ik voor de laatste keer iemand verloor, voelde ik mij _____________________________________________</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Op 2 november ga ik altijd ________________________________________________________________________</span><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -1314,7 +1326,7 @@
             }
           },
           "title1": "Taal&nbsp;",
-          "subtitle1": "Help, juf!&nbsp;",
+          "subtitle1": "Winterse oefeningen",
           "caption1": "Deze oefeningen zijn ideaal als huiswerk of contractwerkje, want ze zijn volledig zelfstandig uit te voeren. Dit past uiteraard best in het winterseizoen!",
           "button1": "<a data-app-btn=\"true\" href=\"winter#msg-box8-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil oefenen!</a>",
           "media2": {
@@ -1430,7 +1442,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Lesdoelen:&nbsp;</b></p><p><br></p><p>-\tDe leerlingen passen de verenkelings- en verdubbelingsregels toe.&nbsp;</p><p>-\tDe leerlingen passen de regels ivm hoofdletters toe.&nbsp;</p><p>-\tDe leerlingen schrijven de juiste letters wanneer er een tweeklank is.</p><p>-\tDe leerlingen schrijven correct woorden met eeuw, ieuw, uw/klankwoorden.&nbsp;</p><p>-\tDe leerlingen zoeken woorden die met winter te maken hebben in een woordzoeker.&nbsp;</p><p><br></p>"
         },
@@ -1443,7 +1455,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p><b>Leerplandoelen</b>:</p><p>TOtg1 Plezier beleven aan taal en het spelen met taal &nbsp; &nbsp;</p><p>TOtg4 Mondeling en schriftelijk willen en durven communiceren en het nut daarvan inzien</p><p>TOsn3 Een schriftelijke boodschap overbrengen</p><p>●\tVrij schrijven (over gevoelens, ervaringen, gedachten, verwachtingen)</p><p>●\tEen verslag schrijven (over gebeurtenissen, (voor)gelezen verhalen</p><p>TOsn4 Bij het schrijven aandacht besteden aan zins- en tekststructuur, lay-out en beeldende elementen, leesbaarheid, spelling en interpunctie</p><p>●\t6 - 9 Aandacht besteden aan spelling en interpunctie:ontdekken dat correcte …</p><p>●\t9 - 12 Aandacht besteden aan spelling en interpunctie:toepassen van inzichten…</p><p><br></p><p><br></p>",
           "text2": "<p><b>Eindtermen:</b></p><p>4.3  Een brief schrijven aan een bekende om een persoonlijke boodschap of belevenis over te brengen.</p><p>4.7  De leerlingen kunnen voor het realiseren van bovenstaande eindtermen bovendien:</p><p>woorden met veranderlijk woordbeeld (regelwoorden) spellingsafspraken en -regels toepassen in verband met het schrijven van: &nbsp;&nbsp;</p><p>●\twerkwoorden</p><p>●\tklinker in open/gesloten lettergreep</p><p>●\tverdubbeling medeklinker</p><p>●\tniet-klankzuivere eindletter</p><p><br></p>"
@@ -1676,7 +1688,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
           "title": "Lente",
@@ -1721,7 +1733,7 @@
           },
           "title1": "Rekenen",
           "subtitle1": "Met juf Vicky",
-          "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)",
+          "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen?",
           "button1": "<a data-app-btn=\"true\" href=\"page2.html#msg-box8-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil oefenen!</a>",
           "media2": {
             "image": {
@@ -1802,8 +1814,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-r",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lentetak-751x239.jpg",
@@ -1833,7 +1845,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Lesdoelen</b>:\n</p><p>De leerlingen vullen de eenvoudige vraagstukken aan, waarin maaltafels en optellingen verwerkt zitten.\n</p><p>De leerlingen spiegelen figuren om een as, zonder gebruik van een spiegel.\n</p><p>De leerlingen berekenen de totaalprijs door verschillende prijzen op te tellen.\n</p><p>De leerlingen zetten de prijzen om aan de hand van hoeveel ze van elk ingrediënt nodig hebben.</p>"
         },
@@ -1846,10 +1858,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p><b>Leerplandoelen</b>:</p><p><br></p><p>\n</p><p>Opdracht 1</p><p>WDrv4: Handig hoofdrekenen&nbsp;</p><p>Delen &gt; natuurlijke getallen &gt; de deeltafels tot 10 paraat kennen\n</p><p>Delen &gt; natuurlijke getallen &gt; de deeltafels tot 10 inzichtelijk verwerven in betekenisvolle situaties</p><p><br></p><p>Opdracht 2</p><p>\n</p><p>WDmk3: Inzicht verwerven in meetkundige relaties</p><p>Spiegelingen en symmetrie &gt; onderzoeken van spiegelbeelden door actief ervaringen op te doen\n</p><p>Spiegelingen en symmetrie &gt; onderzoeken en vaststellen van spiegelbeelden in de omgeving en in vlakke figuren door een spiegel te gebruiken of door te vouwen\n</p><p>Spiegelingen en symmetrie &gt; spiegelbeelden van eenvoudige figuren tekenen op geruit papier</p><p><br></p><p>Opdracht 3</p><p>\n</p><p>WDmm3: Schatten, meten en rekenen met maateenheden</p><p>Geld &gt; samenstellen van bedragen in betekenisvolle situaties\n</p><p>Geld &gt; rekenen met geld en gepast betalen op verschillende manieren in eenvoudige betekenisvolle situaties\n</p><p>Geld &gt; de afkortingen/symbolen euro, EUR, € kennen en gebruiken\n</p><p>Geld &gt; rekenen met geld en gepast betalen op verschillende manieren in betekenisvolle situaties</p>",
-          "text2": "<p><b>Eindtermen</b>:\r</p><p><br></p><p>1.13 De leerlingen voeren opgaven uit het hoofd uit waarbij ze een doelmatige oplossingsweg kiezen op basis van inzicht in de eigenschappen van bewerkingen en in de structuur van getallen:\r</p><p>Optellen en aftrekken tot honderd\r</p><p>Optellen en aftrekken met grote getallen met eindnullen\r</p><p>Vermenigvuldigen met en delen naar analogie met de tafels\r</p><p>1.10 De leerlingen zijn in staat tot een onmiddellijk geven van correcte resultaten bij optellen en aftrekken tot 10, bij tafels van vermenigvuldiging tot en met de tafels van 10 en de bijhorende deeltafels.\r</p><p>1.23 De leerlingen kunnen in een zinvolle context eenvoudige breuken en kommagetallen optellen en aftrekken. In een zinvolle context kunnen zij eveneens een eenvoudige breuk vermenigvuldigen met een natuurlijk getal.\r</p><p>3.6 De leerlingen kunnen de begrippen symmetrie, gelijkvormigheid en gelijkheid ontdekken in de realiteit. Ze kunnen zelf eenvoudige geometrische figuren maken.\r</p><p><br></p>"
+          "text2": "<p><b>Eindtermen</b>:\n</p><p><br></p><p>1.13 De leerlingen voeren opgaven uit het hoofd uit waarbij ze een doelmatige oplossingsweg kiezen op basis van inzicht in de eigenschappen van bewerkingen en in de structuur van getallen:\n</p><p>Optellen en aftrekken tot honderd\n</p><p>Optellen en aftrekken met grote getallen met eindnullen\n</p><p>Vermenigvuldigen met en delen naar analogie met de tafels\n</p><p>1.10 De leerlingen zijn in staat tot een onmiddellijk geven van correcte resultaten bij optellen en aftrekken tot 10, bij tafels van vermenigvuldiging tot en met de tafels van 10 en de bijhorende deeltafels.\n</p><p>1.23 De leerlingen kunnen in een zinvolle context eenvoudige breuken en kommagetallen optellen en aftrekken. In een zinvolle context kunnen zij eveneens een eenvoudige breuk vermenigvuldigen met een natuurlijk getal.\n</p><p>3.6 De leerlingen kunnen de begrippen symmetrie, gelijkvormigheid en gelijkheid ontdekken in de realiteit. Ze kunnen zelf eenvoudige geometrische figuren maken.\n</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1984,8 +1996,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">Laureen sluit haar boekje. “Het heeft toch geen zin om het op te schrijven! Ik heb geen goede ideeën!” denkt ze luidop. Ze doet haar handschoenen weer aan. “Het is toch al april? De zon zou moeten schijnen en het zou opnieuw warm moeten worden!”, denkt ze in zochzelf. Een meisje dat er heel stoer uitziet komt opeens naast haar zitten. “Wie ben jij? Ben je nieuw hier? Ik heb je hier nog nooit gezien. Oh, natuurlijk ben je dan nieuw! Stom van me. Wat doe je?”, ratelt ze, heel vastberaden om antwoord te krijgen op al haar vragen. “Euhm”, hapert Laureen verlegen.                                                                                                       “Oh ik vergeet me al bijna voor te stellen! Ik ben Julia!” Roept ze luid.                             “Hey, euhm, ik ben, euhm, Laureen.”, fluistert ze bijna.                                                                   Julia grijpt meteen in: “Hey, joh, niet zo verlegen! Wat was je daar trouwens aan het doen met dat boekje daarnet? Is het je dagboek? Interessant! Mag ik weten wat er is staat? Ben je verliefd? Op wie, op wie, op wie?”.                                                                                                                        “Ik ben niet verliefd.”, zegt Laureen stil.                                                                                         “Ah, komaan, aan mij kan je het wel vertellen! Je kent mij toch? Je weet toch dat ik Julia heet? Als je mijn naam weet, dan ken je mij. Mij kan je vertrouwen!”, roept ze opnieuw heel enthousiast.                                                                                        “Het is geen dagboek.”, zegt ze een beetje beschaamd door het volume in de stem van Julia. “Maar, wat dan? Zeg het, zeg het, zeg het! Please?”.                                                                     “Het is maar stom.”, schaamt ze zich alweer.                                                                                    “Ik zal niet lachen! Alstublieft? Pleaseeeeeeeeeee…?!”</span><br></p><p>\n</p><p>“Hey kleine! Hoe was je dag?” roept de grote broer van Laureen van op de zolder, wanneer hij haar hoort binnenkomen en ze haar handschoenen en sjaal op het tafeltje in de gang legt. De zolder hebben ze, toen ze daar waren komen wonen, omgebouwd tot een super coole, jongensachtige slaapkamer, met een hoogslaper als bed met een luxe zetel eronder, een bureau die zo groot is als een gigantische werktafel (die er even rommelig uitzag) als in een groot bedrijf en een postermuur met posters van zijn favoriete band. Het waren er zo veel dat het leek of zijn volledige muur beplakt was met behangpapier.                                                         “Bwa, valt wel mee!”,  roept ze als antwoord op de vraag die ze eigenlijk wilde ontwijken. Hij komt naar beneden om een gesprek met haar te kunnen voeren zonder dat ze moeten roepen.                                                                                      “Oei, dat klinkt niet heel overtuigd?”, vraagt hij op een toon dat het geïnteresseerd overkwam. “Een meisje dat kakelt als een kip naast mijn oren en verder niets speciaals.”, antwoordt ze, niet wetend of hij het wel helemaal begrepen heeft. Haar broer strompelt terug naar boven, omdat hij voelt dat het geen zin heeft om met Laureen nog verder een gesprek te voeren. Ze heeft toch niets te vertellen.\n</p><p>\n</p><p>“Laureen !!!”. Laureen schrikt wakker uit haar diepe slaap. “Ik heb nu al 3 keer geroepen!” roept mama lichtjes geïrriteerd.                                                                                                                 “Ik kom al!” roept de slaapdronken Laureen naar haar mama die in de keuken een eitje voor haar staat te bakken. Al strompelend wandelt Laureen de keuken binnen. “Moest ik nu maar niet naar school.” dacht ze.                                                                                                 “Ook niet echt enthousiast precies? Scheelt er iets? Als er iets is heb ik liever dat je het zegt dan dat je ermee blijft rondlopen he?... Laureen! Je bent er niet bij met je gedachten!”, raast mama. “Laat mij maar gewoon.”, zucht Laureen.</p><p>De dag kroop voorbij en de volgende dagen slopen al even traag, trager kon niet. Het werd steeds warmer en de vogeltjes floten dagelijks hun favoriete deuntjes. Maar vandaag was het wel heel anders gelopen dan de voorbije weken! Een heel onopvallende grijze muis in de klas was opeens niet zo onopvallend meer. De presentatie van Wouter, voor zijn lievelingsvak Nederlands, over zijn lievelingsboek, was zo fantastisch! Zo origineel! Zo goed uitgelegd! Zo goed voorbereid! Gewoon perfect! Niemand was dan ook verrast over de 20/20 die hij behaalde. Laureen was er nog van onder de indruk! Zou ze verliefd zijn? Was dit dan dat fantastische gevoel dat je kreeg als je aan die persoon dacht?\r</p><p><br></p>",
-          "text2": "<p>\n</p><div><span style=\"font-size: 1.07rem;\">De volgende dagen waren net een sneltrein. De les godsdienst van enkele dagen later zet Laureen aan het denken. “Volg je hart. Als het je een gevoel geeft dat je iets niet moet doen, doe het dan ook niet en omgekeerd ook natuurlijk! Als je hart zegt dat je iets wel moet doen, ga er dan voor!”, klonk het uit de mond van de enthousiaste juf van godsdienst.</span><br></div><div>Laureen ploft neer op haar bed. Dit is de enige plek die echt vertrouwd voelt. De enige plek waar ze zich echt thuis voelt. Hier kan ze zichzelf zijn! “Wat moet ik nu doen met Wouter? Als het echt juist is wat juf Sarah zegt over je hart volgen, moet ik hem dan vertellen over mijn gevoelens? Of hou ik het beter voor mijzelf? Zou hij mij begrijpen? Ben ik hem ook opgevallen? Wat zou hij van mij denken? Hij is misschien ook verliefd op mij! Af en toe zie ik hem wel eens kijken, maar wat betekent dat? Waarom is dit toch zo ingewikkeld?! Misschien kan ik eens aan Julia vragen wat zij zou doen?... Nee, laat maar, zij is zo een flapuit! Zij zou het toch maar doorvertellen, zonder dat ze het zelf besefte en binnen de kortste keren weet heel de school het! Natuurlijk zou ze het niet met opzet doen, maar toch. Julia is dus geen optie.”, spoken de gedachten in het hoofd van Laureen. Ze laat haar gedachten de vrije loop, op zoek naar een oplossing. Na een hele tijd luisteren naar haar vermoeiende gedachten die als spoken door haar hoofd dwalen, valt ze in een diepe slaap die nog niet door het minste geluid rondom haar, verstoord kan worden.\n</div><div>Na een paar dagen piekeren komt Laureen vastberaden aan op school. Ze gaat het doen! Ze gaat het hem zeggen! Na al die weken weet ze al een heel stuk meer over hem. Ze heeft een plan. Voor 1 keer kwam ze heel vroeg naar school. Het uur waarop Wouter de schoolpoort binnenstapt heeft ze ook perfect uitgedokterd. Het was bijna een obsessie geworden! In de klas hangen bakjes, voor iedereen 1. Hierin kunnen de kinderen van de klas boodschappen achterlaten voor elkaar. Voor ze haar briefje in het gleufje van Wouters bakje stopte, dacht ze nog even aan hoe perfect hij wel was. Op haar briefje stond in de meest sierlijke letters die Laureen ooit geschreven had:\n</div><div>Liefste Wouter\n</div><div>Kan ik je deze middag even spreken?\n</div><div>Groetjes Laureen xxx.\n</div><div>&nbsp;\n</div><div>Tijdens de middag zit Laureen met haar boekje op haar schoot, lekker in de zon op de speelplaats. Wouter stapt op haar af. “Waarom moest je mij spreken?”, vraat hij. Laureen voelt dat haar gezicht een rood kleurtje krijgt en krijgt geen woord uitgesproken. “Wat was er nu?”, vraagt hij een beetje lacherig na enkele lange seconden van stilte. “Ik, euhm, ik denk dat ik, euhm…”, hapert ze en Wouter onderbreekt haar met een lange kus op haar zachte lippen. “Gekkie! Ik had je wel door!”, lacht hij wanneer hun lippen elkaar niet meer raken. Waauw! Laureen is helemaal in de wolken! Wanneer ze thuiskomt, danst ze de sterren van de hemel in haar kamer. Wat een feest! Haar allergrootste droom is uitgekomen!</div>"
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Laureen sluit haar boekje. “Het heeft toch geen zin om het op te schrijven! Ik heb geen goede ideeën!” denkt ze luidop. Ze doet haar handschoenen weer aan. “Het is toch al april? De zon zou moeten schijnen en het zou opnieuw warm moeten worden!”, denkt ze in zichzelf. Een meisje komt naast haar zitten. “Wie ben jij? Ben je nieuw hier? Ik heb je nog nooit gezien. Oh, natuurlijk ben je dan nieuw! Stom van me. Wat doe je?”, ratelt ze. “Euhm”, hapert Laureen verlegen.                                                                                                          “Oh, ik vergeet me al bijna voor te stellen! Ik ben Julia!”, roept ze luid. “Hey, euhm, ik ben, euhm, Laureen.”, fluistert ze bijna.                                                                   Julia roept: “Hey, joh, niet zo verlegen! Wat was je daar trouwens aan het doen met dat boekje daarnet? Is het je dagboek? Mag ik weten wat er is staat? Ben je verliefd? Op wie?”.                                                                                                               “Ik ben niet verliefd.”, zegt Laureen stil.                                                                                         “Ah, komaan, aan mij kan je het wel vertellen! Je kent mij toch? Als je mijn naam weet, dan ken je mij. Mij kan je vertrouwen!”, roept ze opnieuw heel enthousiast.                                                                                        “Het is geen dagboek.”, zegt ze beschaamd. “Maar, wat dan? Zeg het! Please?”.                                                                   “Het is maar stom.”, zegt ze.                                                                                    Julia roept weer: “Ik zal niet lachen! Alstublieft? Pleaseeeeeeeeeee…?!”&nbsp;</span></p><p><br></p><p>Een tijdje later was een heel onopvallende grijze muis in de klas was opeens niet zo onopvallend meer. De presentatie van Wouter over zijn lievelingsboek, was zo fantastisch! Niemand was verrast over de 20/20 die hij behaalde. Laureen was ervan onder de indruk!&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De weken slopen voorbij en de gevoelens werden steeds sterker. Laureen ploft neer op haar bed. Dit is de enige plek die echt vertrouwd voelt. Hier kan ze zichzelf zijn!&nbsp;</span></p>",
+          "text2": "<p>\n</p><div>“Wat moet ik nu doen met Wouter? Moet ik hem vertellen over mijn gevoelens? Of hou ik het beter voor mijzelf? Zou hij mij begrijpen? Ben ik hem ook opgevallen? Wat zou hij van mij denken? Hij is misschien ook verliefd op mij! Af en toe zie ik hem wel eens kijken, maar wat betekent dat? Waarom is dit toch zo ingewikkeld?! Misschien kan ik eens aan Julia vragen wat zij zou doen?... Nee, laat maar, zij is zo een flapuit! Zij zou het toch maar doorvertellen, zonder dat ze het zelf besefte en binnen de kortste keren weet heel de school het! Natuurlijk zou ze het niet met opzet doen, maar toch. Julia is dus geen optie.”, spoken de gedachten in het hoofd van Laureen.</div><div>Na een paar dagen piekeren komt Laureen vastberaden aan op school. Ze gaat het doen! Ze gaat het hem zeggen! Ze heeft een plan. In de klas hangen bakjes, voor iedereen 1. Hierin kunnen de kinderen van de klas boodschappen achterlaten voor elkaar. Dit ging zij ook doen!&nbsp;</div><div><br></div><div><i>Liefste Wouter</i></div><div><i>Kan ik je deze middag even spreken?</i></div><div><i>Groetjes Laureen xxx</i></div><div><br></div><div>Tijdens de middag stapt hij op haar af. “Waarom moest je mij spreken?”, vraagt hij. Laureen voelt dat haar gezicht een rood kleurtje krijgt en krijgt geen woord uitgesproken. “Ik, euhm, ik denk dat ik, euhm…”, hapert ze en Wouter onderbreekt haar met een lange kus op haar zachte lippen. “Gekkie! Ik had je wel door!”, lacht hij wanneer hun lippen elkaar niet meer raken.</div><div><br></div>"
         },
         {
           "_tags": [
@@ -2018,6 +2030,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -2040,15 +2060,7 @@
           },
           "title": "Reis door de seizoenen",
           "text": "<b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -2171,6 +2183,107 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "features3",
+          "_anchor": "features3-2j",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "MUVO&nbsp;",
+          "subtitle1": "Seizoenenboom",
+          "caption1": "Maak dit werkje als kapstok voor dit digizine.&nbsp;<br>Hij wordt best in het begin van het schooljaar gemaakt, elk seizoen kan er naar teruggekoppeld worden.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"home#msg-box5-9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik maken!&nbsp;</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Klavier op school",
+          "subtitle2": "Stien Buts",
+          "caption2": "Een pleidooi voor meer typeles in de lagere school.",
+          "button2": "<a data-app-btn=\"true\" href=\"home#msg-box8-1m\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik lezen!&nbsp;</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Wij vieren feest!",
+          "subtitle3": "digitale tool - flipquiz",
+          "caption3": "Hoe staat het met de algemene kennis over de feestdagen van uw leerlingen? Dit kan dienen als leuk tussendoortje, of als inleiding tot een les rond feestdagen.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"home#msg-box8-1k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik spelen!</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-9",
           "_params": {
@@ -2217,7 +2330,7 @@
             }
           },
           "title": "Seizoenenboom<div><br></div>",
-          "text": "Dit werkje wordt best in de herfst, het begin van het schooljaar, gemaakt. Nadat de boom klaar is, gaan we het bos in en verzamelen we herfstige voorwerpen: kastanjes, afgevallen bladeren. We leggen ze in de hoek behorend tot dit seizoen. Deze 'verzameltocht' herhalen we elk seizoen. Aan het eind van het schooljaar hebben we een mooie seizoensverzameling! <br><br>Benodigdheden<br>- Het sjabloon in het midden van het magazine <br>- Scharen, wasco’s (pandakrijt) <br>- Optioneel: bruine verf, sterke lijm<br>",
+          "text": "Dit werkje wordt best in de herfst, het begin van het schooljaar, gemaakt. Nadat de boom klaar is, gaan we het bos in en verzamelen we herfstige voorwerpen: kastanjes, afgevallen bladeren. We leggen ze in de hoek behorend tot dit seizoen. Deze 'verzameltocht' herhalen we elk seizoen. Aan het eind van het schooljaar hebben we een mooie seizoensverzameling! <br><br><b>Benodigdheden</b><br>- Het sjabloon in het midden van het magazine <br>- Scharen, wasco’s (pandakrijt) <br>- Optioneel: bruine verf, sterke lijm<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sjabloon\" data-toolbar=\"-mbrBtnMove\">&nbsp;link naar het Sjabloon</a>"
         },
         {
@@ -2229,9 +2342,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p>Lesdoelen\n</p><p>De leerlingen overlopen de verschillende seizoenen en bespreken hoe de natuur zich hieraan aanpast.\n</p><p>De leerlingen kleuren de kruin met wasco, schilderen de stam (=differentieel doel) en knippen het figuur uit.\n</p><p>Ze experimenteren met de creatieve mogelijkheden van verschillende materialen.</p>"
+          "text": "<p><b>Lesdoelen\n</b></p><p>De leerlingen overlopen de verschillende seizoenen en bespreken hoe de natuur zich hieraan aanpast.\n</p><p>De leerlingen kleuren de kruin met wasco, schilderen de stam en knippen het figuur uit.\n</p><p>Ze experimenteren met de creatieve mogelijkheden van verschillende materialen.</p>"
         },
         {
           "_tags": [
@@ -2242,10 +2355,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">Leerplandoelen</span><br></p><p>MUGe2: Kleur: Bewust beleven, herkennen, uitvoeren en creatief gebruik maken van koude en warme kleuren, het karakter (psychologische eigenschappen) van een kleur\n</p><p>MUGe3: Boodschappen en symboliek in kunst en muzische expressie begrijpen en verwerken. → Betekenis of boodschap in kunst en expressie toekennen en dit koppelen aan de vormgeving\n</p><p>MUVa3: De technische en expressieve vaardigheden die nodig zijn om zich muzisch uit te drukken in beeld, muziek, dans en drama verfijnen\n</p><p><br></p><p><br></p>",
-          "text2": "<p>Eindtermen\n</p><p>1.4 Plezier en voldoening vinden in het beeldend vormgeven en genieten van wat beeldend is vormgegeven.\n</p><p>1.5 Beeldende problemen oplossen, technieken toepassen en gereedschappen en materialen hanteren om beeldend vorm te geven op een manier die hen voldoet.\n</p><p>6.3 Genieten van het muzisch handelen waardoor hun expressiemogelijkheden verruimen.\n</p><p>6.4 Vertrouwen op hun eigen expressiemogelijkheden en durven hun creatieve uitingen tonen.\n</p><p>6.5 Respect betonen voor uitingen van leeftijdgenoten, behorend tot eigen en andere culturen.\n</p>"
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>Leerplandoelen</b></span><br></p><p>MUGe2: Kleur: Bewust beleven, herkennen, uitvoeren en creatief gebruik maken van koude en warme kleuren, het karakter (psychologische eigenschappen) van een kleur\n</p><p>MUGe3: Boodschappen en symboliek in kunst en muzische expressie begrijpen en verwerken. De betekenis of boodschap in kunst en expressie toekennen en dit koppelen aan de vormgeving\n</p><p>MUVa3: De technische en expressieve vaardigheden die nodig zijn om zich muzisch uit te drukken in beeld, muziek, dans en drama verfijnen\n</p><p><br></p><p><br></p>",
+          "text2": "<p><b>Eindtermen\n</b></p><p>1.4 Plezier en voldoening vinden in het beeldend vormgeven en genieten van wat beeldend is vormgegeven.\n</p><p>1.5 Beeldende problemen oplossen, technieken toepassen en gereedschappen en materialen hanteren om beeldend vorm te geven op een manier die hen voldoet.\n</p><p>6.3 Genieten van het muzisch handelen waardoor hun expressiemogelijkheden verruimen.\n</p><p>6.4 Vertrouwen op hun eigen expressiemogelijkheden en durven hun creatieve uitingen tonen.\n</p><p>6.5 Respect betonen voor uitingen van leeftijdgenoten, behorend tot eigen en andere culturen.\n</p>"
         },
         {
           "_tags": [
@@ -2258,7 +2371,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Onderwijsleergesprek als inleiding</b></p><p>\n</p><p>- Welke seizoenen zijn er? </p><p>- Welke vind je het fijnst? Waarom? </p><p>- Hoe herken je in de natuur welk seizoen het is?  \r</p><p>\r</p><p>De meeste bomen zijn kaal in de winter. In de lente groeien er nieuwe blaadjes aan, krijgt de boom bloesems die later vruchten worden. In de zomer staat de kruin op zijn mooist. In de herfst krijgen de bladeren felle kleuren en vallen de bladeren af.  \r</p><p>\r</p><p>We denken na welke kleuren het best passen bij elk seizoen.</p><p><br></p>"
+          "text": "<p><b>Onderwijsleergesprek als inleiding</b></p><p>\n</p><p>- Welke seizoenen zijn er? </p><p>- Welke vind je het fijnst? Waarom? </p><p>- Hoe herken je in de natuur welk seizoen het is?  \n</p><p>\n</p><p>De meeste bomen zijn kaal in de winter. In de lente groeien er nieuwe blaadjes aan, krijgt de boom bloesems die later vruchten worden. In de zomer staat de kruin op zijn mooist. In de herfst krijgen de bladeren felle kleuren en vallen de bladeren af.  \n</p><p>\n</p><p>We denken na welke kleuren het best passen bij elk seizoen.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -2471,7 +2584,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>lesdoelen:</b></p><p>De leerlingen begrijpen de achterliggende reden van de feestdagen.</p><p>De leerlingen zien in dat sommige feestdagen verschillen van datum door bijkomende uitleg van hun leerkracht.</p>"
         },
@@ -2484,10 +2597,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text1": "<p><b>Leerplandoelen</b>:&nbsp;<br>RKgs3 Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het van mensen op het ritme van het liturgisch jaar deze mee beleven.</p><p><br></p><p>OWti7 7 - 12 De geschiedenis van veel voorkomende culturele, katholiek en andere religieuze en historische feesten en gebeurtenissen achterhalen.</p>",
-          "text2": "<p><b>eindtermen:</b></p><p>De leerlingen…</p><p>3.8 kunnen aan de hand van een voorbeeld illustreren dat een actuele toestand, die voor kinderen herkenbaar is, en die door de geschiedenis beïnvloed werd, vroeger anders was en in de loop der tijden evolueert.</p>"
+          "text1": "<p><b>Leerplandoelen</b>:&nbsp;<br>RKgs3 Openkomen voor de symboliek, geloofstaal, rituelen en vieringen in het van mensen op het ritme van het liturgisch jaar deze mee beleven.</p><p><br></p><p>OWti7 7 De geschiedenis van veel voorkomende culturele, katholiek en andere religieuze en historische feesten en gebeurtenissen achterhalen.</p>",
+          "text2": "<p><b>eindtermen:</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3.8 De leerlingen kunnen aan de hand van een voorbeeld illustreren dat een actuele toestand, die voor kinderen herkenbaar is, en die door de geschiedenis beïnvloed werd, vroeger anders was en in de loop der tijden evolueert.</span><br></p>"
         },
         {
           "_tags": [
