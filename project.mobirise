@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "Lente",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1745,8 +1745,8 @@
             }
           },
           "title1": "Rekenen",
-          "subtitle1": "Met juf Vicky",
-          "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen?",
+          "subtitle1": "Met meester Olivier",
+          "caption1": "Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij meester Olivier helpen rekenen?",
           "button1": "<a data-app-btn=\"true\" href=\"page2.html#msg-box8-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil oefenen!</a>",
           "media2": {
             "image": {
@@ -1845,8 +1845,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Rekenen met Juf Vicky",
-          "text": "<p>Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen? (2e &amp; 3e leerjaar)</p>",
+          "title": "Rekenen met meester Olivier",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1887,7 +1887,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>OEFENING 1  (2de graad)\n</b></p><p><span style=\"font-size: 1.07rem;\">Op een zonnige lentedag gaat de klas van juf Vicky bloemetjes plukken op de weide naast de school. Kan jij juf Vicky helpen rekenen?&nbsp;</span><br></p><p>1. De 9 meisjes van haar klas gaan alle rode bloemen plukken. Op het veld staan 45 rode bloemen. Hoeveel bloemen moet elk meisje plukken?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>2. De jongens beslissen om alle blauwe bloemen te plukken. In totaal staan er 28 blauwe bloemen. Er zitten 7 jongens in de klas. Hoeveel bloemen plukt elke jongen?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>3. Hoeveel bloemen stonden er in het begin op de weide als je weet dat er ook nog eens 18 witte bloemen stonden?\n</p><p>&nbsp;________________________________________________________________________________________________________________________</p><p><br></p><p><br></p><p><br></p><p><br></p><p>\n</p><p><b>OEFENING 2  (3e graad)</b> \n</p><p>Kan jij de figuren spiegelen zonder gebruik van een spiegel?\n</p><p><br></p>"
+          "text": "<p><b>OEFENING 1  (2de graad)\n</b></p><p><span style=\"font-size: 1.07rem;\">Op een zonnige lentedag gaat de klas van meester Olivier bloemetjes plukken op de weide naast de school. Kan jij meester Olivier helpen rekenen?&nbsp;</span><br></p><p>1. De 9 meisjes van haar klas gaan alle rode bloemen plukken. Op het veld staan 45 rode bloemen. Hoeveel bloemen moet elk meisje plukken?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>2. De jongens beslissen om alle blauwe bloemen te plukken. In totaal staan er 28 blauwe bloemen. Er zitten 7 jongens in de klas. Hoeveel bloemen plukt elke jongen?\n</p><p>________________________________________________________________________________________________________________________\n</p><p>3. Hoeveel bloemen stonden er in het begin op de weide als je weet dat er ook nog eens 18 witte bloemen stonden?\n</p><p>&nbsp;________________________________________________________________________________________________________________________</p><p><br></p><p><br></p><p><br></p><p><br></p><p>\n</p><p><b>OEFENING 2  (3e graad)</b> \n</p><p>Kan jij de figuren spiegelen zonder gebruik van een spiegel?\n</p><p><br></p>"
         },
         {
           "_inherit": "gallery1",
@@ -2072,7 +2072,7 @@
             "showButtons": false
           },
           "title": "Reis door de seizoenen",
-          "text": "<b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen over te praten. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen in dit thema, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
+          "text": "<b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen rond te werken, het hele schooljaar lang. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen maken, .... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2117,7 +2117,7 @@
           },
           "title1": "Lente&nbsp;",
           "subtitle1": "",
-          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
+          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"Lente\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
           "media2": {
             "image": {
@@ -2133,7 +2133,7 @@
           },
           "title2": "Zomer",
           "subtitle2": "",
-          "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br>",
+          "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
           "media3": {
             "image": {
@@ -2149,7 +2149,7 @@
           },
           "title3": "Herfst",
           "subtitle3": "",
-          "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br>",
+          "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
           "media4": {
             "image": {
@@ -2165,7 +2165,7 @@
           },
           "title4": "Winter",
           "subtitle4": "",
-          "caption4": "De winter is het seizoen van wanten en kou\n<br>Dat is precies waar ik van hou\n<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard\n<br>Nog maar drie maanden en het is alweer maart\n<br>Sinterklaas, kerst en nieuwjaar horen erbij\n<br>En al die gezelligheid\n<br>Wat maakt de winter me blij!<br>",
+          "caption4": "De winter is het seizoen van wanten en kou\n<br>Dat is precies waar ik van hou\n<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard\n<br>Nog maar drie maanden en het is alweer maart\n<br>Sinterklaas, kerst en nieuwjaar horen erbij\n<br>En al die gezelligheid\n<br>Wat maakt de winter me blij!<br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"winter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
           "media5": {
             "image": {
