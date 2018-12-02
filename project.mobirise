@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "Lente",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -912,7 +912,7 @@
             }
           },
           "title2": "Godsdienst",
-          "subtitle2": "Joris, de Heilige die de draak versloeg",
+          "subtitle2": "Joris: de heilige die de draak versloeg",
           "caption2": "Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Interessant!</a>",
           "media3": {
@@ -923,7 +923,7 @@
               "active": true
             }
           },
-          "title3": "op vierdaagse",
+          "title3": "Op vierdaagse",
           "subtitle3": "Pam Appelman",
           "caption3": "Het vierde leerjaar gaat op vierdaagse naar de Ardennen!",
           "button3": "<a data-app-btn=\"true\" href=\"herfst#msg-box8-25\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!</a>",
@@ -2117,8 +2117,8 @@
           },
           "title1": "Lente&nbsp;",
           "subtitle1": "",
-          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Lente\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de lente</a>",
+          "caption1": "Het is lente wat leuk,<br>ik lach me in een deuk.<br>Het is niet warm, maar ook niet koud,<br>lente is een seizoen waarbij je je trui aanhoudt.<br>Het is lente dus de bloemen gaan bloeien,<br>en heel hoog groeien.<br>Het is bijna zomer, best wel leuk,<br>maar die muggen prikken …. Wat een jeuk!<br>",
+          "button1": " <a data-app-btn=\"true\" href=\"Lente\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Rekenen met meester Olivier</a> <a data-app-btn=\"true\" href=\"Lente\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Lentekriebels' by Ine Haepers</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zomer-600x600.jpg",
@@ -2133,8 +2133,8 @@
           },
           "title2": "Zomer",
           "subtitle2": "",
-          "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de zomer</a>",
+          "caption2": "Het wordt steeds een stukje warmer,<br>steeds meer mensen zitten buiten.<br>Die heerlijke warme zonnestralen,<br>bedekken mijn gezicht.<br>De mensen worden vrolijker,<br>de natuur is wonderschoon.<br>De lente is nu bijna voorbij,<br>en dan is het eindelijk zomer<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Beweging: een gezonde geest</a> <a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Techniek: het robotwonder</a> <a data-app-btn=\"true\" href=\"Zomer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Gezonde vieruurtjes by Bo Vansant</a> ",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/herfst-600x600.jpg",
@@ -2149,8 +2149,8 @@
           },
           "title3": "Herfst",
           "subtitle3": "",
-          "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de herfst</a>",
+          "caption3": "Paddestoelen, beukennootjes,<br>dwarrelblaadjes, rood en geel.<br>Buiten vind je al die schatten<br>van de herfst, zoveel.<br>Regenvlagen, hagelbuien,<br>pijpenstelen, hondenweer. <br>Neem een paraplu mee<br>en geen druppel raakt je meer.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Wereld: learning app over Wereldoorlog 1</a> <a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Godsdienst: Joris, de heilige die de draak versloeg</a> <a data-app-btn=\"true\" href=\"herfst\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Op vierdaagse' by Pam Appelman</a> ",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/winter-600x600.jpg",
@@ -2166,7 +2166,7 @@
           "title4": "Winter",
           "subtitle4": "",
           "caption4": "De winter is het seizoen van wanten en kou\n<br>Dat is precies waar ik van hou\n<br>Als het wit is lekker spelen in de sneeuw en warm bij de haard\n<br>Nog maar drie maanden en het is alweer maart\n<br>Sinterklaas, kerst en nieuwjaar horen erbij\n<br>En al die gezelligheid\n<br>Wat maakt de winter me blij!<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"winter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Reis naar de winter</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"winter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Taal: winterse oefeningen</a> <a data-app-btn=\"true\" href=\"winter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Oh sparreboom' by Jade Hermans</a>  ",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
