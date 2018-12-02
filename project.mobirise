@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "winter",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -902,7 +902,7 @@
           "title1": "Wereld",
           "subtitle1": "Learning app over Wereldoorlog 1",
           "caption1": "Deze learning app is een goede, speelse verwerkingsopdracht na een les over Wereldoorlog 1.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik doen!&nbsp;</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil spelen!<br></a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -914,7 +914,7 @@
           "title2": "Godsdienst",
           "subtitle2": "Joris: de heilige die de draak versloeg",
           "caption2": "Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Interessant!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil leren!<br></a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2231,7 +2231,7 @@
           "title1": "MUVO&nbsp;",
           "subtitle1": "Seizoenenboom",
           "caption1": "Maak dit werkje als kapstok voor dit digizine.&nbsp;<br>Hij wordt best in het begin van het schooljaar gemaakt, elk seizoen kan er naar teruggekoppeld worden.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"home#msg-box5-9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik maken!&nbsp;</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"home#msg-box5-9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil een seizoenenboom maken!<br></a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -2243,7 +2243,7 @@
           "title2": "Klavier op school",
           "subtitle2": "Stien Buts",
           "caption2": "Een pleidooi voor meer typeles in de lagere school.",
-          "button2": "<a data-app-btn=\"true\" href=\"home#msg-box8-1m\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik lezen!&nbsp;</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"home#msg-box8-1m\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!&nbsp;</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2255,7 +2255,7 @@
           "title3": "Wij vieren feest!",
           "subtitle3": "digitale tool - flipquiz",
           "caption3": "Hoe staat het met de algemene kennis over de feestdagen van uw leerlingen? Dit kan dienen als leuk tussendoortje, of als inleiding tot een les rond feestdagen.&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"home#msg-box8-1k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Dat wil ik spelen!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"home#msg-box8-1k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ik wil lezen!</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
