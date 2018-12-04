@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "winter",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2421,7 +2421,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
@@ -2429,7 +2429,7 @@
             "showButtons": false
           },
           "title": "Reis door de seizoenen",
-          "text": "<b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen rond te werken, het hele schooljaar lang. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen maken... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
+          "text": "<b><br></b><br><b><br></b><b>Veranderingen in het weer zijn fascinerend voor kinderen. Daarom is het leuk om hier met kinderen rond te werken, het hele schooljaar lang. Dit kan aan de hand van verschillende dingen: knutselen, een verhaal vertellen, spelletjes spelen, oefeningen maken... Je vindt het allemaal in dit digizine. Neem snel een kijkje!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
