@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "reisdoordeseizoenen",
-    "currentPage": "home",
+    "currentPage": "winter",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -300,7 +300,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Deze oefeningen kunnen dienstdoen als een ideaal bewegingstussendoortje, of deel uitmaken van een volwaardige leeractiviteit rond yoga.</p><p>De kinderen zullen via de onderstaande foto’s de yogaposities aannemen en proberen deze allemaal 30 seconden vast te houden. Wanneer er meerdere stappen zijn om tot een positie te komen, houdt men deze ook 30 seconden vast.</p><p>Om te beginnen ga je in een startpositie staan. Sluit dan je ogen en voel hoe je lichaam momenteel heel ontspannen aanvoelt. Volg je ademhaling en concentreer je hier volledig op.</p>"
+          "text": "<p>Deze oefeningen kunnen dienstdoen als een ideaal bewegingstussendoortje, of deel uitmaken van een volwaardige leeractiviteit rond yoga.</p><p>De kinderen zullen via de onderstaande foto’s de yogaposities aannemen en proberen deze allemaal 30 seconden vast te houden. Wanneer er meerdere stappen zijn om tot een positie te komen, houdt men deze ook 30 seconden vast.</p><p>Om te beginnen ga je in een startpositie staan. Sluit dan je ogen en voel hoe je lichaam momenteel heel ontspannen aanvoelt. Volg je ademhaling en concentreer je hier volledig op. (eerste, tweede en derde graad)</p>"
         },
         {
           "_tags": [
@@ -607,7 +607,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>De technologie is ver gevorderd en het heeft een grote invloed op ons leven. Kinderen vandaag de dag zijn hiermee grootgebracht en nemen technologie aan als 'normaal'. Ze beseffen vaak niet hoe bijzonder deze evolutie is. Door het verhaal van het robotwonder en de hieraan gekoppelde beeldactiviteit komen kinderen in aanraking met technologie op een bewuste manier.&nbsp;</p>"
+          "text": "<p>De technologie is ver gevorderd en het heeft een grote invloed op ons leven. Kinderen vandaag de dag zijn hiermee grootgebracht en nemen technologie aan als 'normaal'. Ze beseffen vaak niet hoe bijzonder deze evolutie is. Door het verhaal van het robotwonder en de hieraan gekoppelde beeldactiviteit komen kinderen in aanraking met technologie op een bewuste manier. (derde graad)</p>"
         },
         {
           "_tags": [
@@ -1100,7 +1100,7 @@
             "showButton": false
           },
           "title": "Wereldoorlog 1",
-          "text": "<b>Een verwerkingsopdracht van allerlei feiten over de Groote Oorlog</b>",
+          "text": "<b>Een verwerkingsopdracht van allerlei feiten over de Groote Oorlog (tweede graad)</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1201,7 +1201,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-18",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
@@ -1220,7 +1220,7 @@
             "showButton": false
           },
           "title": "Joris, de Heilige die de draak versloeg",
-          "text": "<p><b>Het verhaal over Joris en de draak en de link naar Allerheiligen en Allerzielen</b></p>",
+          "text": "<p><b>Het verhaal over Joris en de draak en de link naar Allerheiligen en Allerzielen. Deze les geeft u een goede insteek om het zware thema rond Allerheiligen en Allerzielen bespreekbaar te maken in de klas. (tweede graad)</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1610,7 +1610,7 @@
           "_anchor": "msg-box8-29",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/wintertak-2000x630.jpg",
@@ -1628,7 +1628,7 @@
             "showButton": false
           },
           "title": "Winterse oefeningen",
-          "text": "<ul><li></li></ul>",
+          "text": "<p><b>Deze oefeningen zijn ideaal als huiswerk of contractwerkje tijdens de winter.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ze zijn volledig zelfstandig uit te voeren. (tweede graad)</span></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2700,7 +2700,7 @@
             }
           },
           "title": "Seizoenenboom<div><br></div>",
-          "text": "Dit werkje wordt best in de herfst, het begin van het schooljaar, gemaakt. Nadat de boom klaar is, gaan we het bos in en verzamelen we herfstige voorwerpen: kastanjes, afgevallen bladeren... We leggen ze in de hoek behorend tot dit seizoen. Deze 'verzameltocht' herhalen we elk seizoen. Aan het eind van het schooljaar hebben we een mooie seizoensverzameling! <br><br><b>Benodigdheden</b><br>- Het sjabloon in het midden van het magazine <br>- Scharen, wasco’s (pandakrijt) <br>- Optioneel: bruine verf, sterke lijm<br>",
+          "text": "Dit werkje wordt best in de herfst, het begin van het schooljaar, gemaakt. Nadat de boom klaar is, gaan we het bos in en verzamelen we herfstige voorwerpen: kastanjes, afgevallen bladeren... We leggen ze in de hoek behorend tot dit seizoen. Deze 'verzameltocht' herhalen we elk seizoen. Aan het eind van het schooljaar hebben we een mooie seizoensverzameling!<br>(Eerste graad)<br><br><b>Benodigdheden</b><br>- Het sjabloon in het midden van het magazine <br>- Scharen, wasco’s (pandakrijt) <br>- Optioneel: bruine verf, sterke lijm<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sjabloon\" data-toolbar=\"-mbrBtnMove\">&nbsp;link naar het Sjabloon</a>"
         },
         {
@@ -2942,7 +2942,7 @@
             "showButton": false
           },
           "title": "Wij vieren feest!&nbsp;",
-          "text": "<p><b>Hoe staat het met de algemene kennis over de feestdagen van uw leerlingen?&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Overloop verschillende feestdagen klassikaal met de quizkaartjes op het bord. Je kan het ook proberen in kleine groepjes met een tablet in de klas, of individueel in de computerklas.<br>Deze opdracht is ideaal aan het eind van het schooljaar om te polsen wat ze hebben onthouden uit dit digizine. &nbsp;</b></p>",
+          "text": "<p><b>Hoe staat het met de algemene kennis over de feestdagen van uw leerlingen?&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Overloop verschillende feestdagen klassikaal met de quizkaartjes op het bord. Je kan het ook proberen in kleine groepjes met een tablet in de klas, of individueel in de computerklas.<br>Deze opdracht is ideaal aan het eind van het schooljaar om te polsen wat ze hebben onthouden uit dit digizine. &nbsp;(derde graad)</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
